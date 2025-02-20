@@ -166,16 +166,21 @@ En maflow spain automotive podemos nombrar los siguientes recursos claves:
 
 
 ### Plantas de producción automatizadas
-Fábricas automatizadas son instalaciones industriales donde la mayoría de los procesos son ejecutados por máquinas o controlados por computadores. Instalaciones como estas,  permiten la rápida y eficiente producción en série y a bajo costo.
 
-### Laboratórios de prueba
-Para tener un alto padrón de calidad y excelencia, es necesario que se tenga laboratorios que dispongan del equipo necesario y el personal calificado para hagan mediciones, análisis y pruebas o calibraciones. Tras pasar por el laboratorio de prueba, el producto ya puede entrar en el mercado.
+Maflow Spain Automotive cuenta con una gran variedad de lineas de producción en su planta principal en Guarnizo, entre ellas se encuentra la linea automática, la cual con una gran variedad de robots programados completa los procesos de doblado, soldadura, y ensamblado de los racores para todos los productos enviados a los clientes del grupo Volkswagen. Esta linea supone un gran ahorro a nivel de personal, ya que solo requiere a un operario para revisar la linea entera.
 
-### Técnicos o personal especializado
-Personal con alto nivel de conocimiento agrega más a la empresa y permite que los productos sean un alto nivel de calidad como ejemplo un ingenieros termodinámicos, para proyectar ciclos eficientes de refrigeración y ventilación, o un especialista en norma y calidad, encargado de garantizar que cada producto cumpla las especificaciones del cliente y el reglamento del sector.
 
-### Patentes
-Una patente es un título de propiedad industrial que reconoce el derecho exclusivo sobre una invención, impidiendo a otros su fabricación, venta o utilización. Las patentes son importantes para diferenciarte del resto de la competencia y para fidelizar clientes.
+
+### Laboratorios de prueba
+
+En la fabrica se puede encontrar un laboratorio especializado tanto como para los procesos de control de calidad e inspección de las piezas erróneas con la finalidad de detectar errores en las lineas, como para la investigación de nuevas formulas para los líquidos de la gama Borygo. Ademas en este laboratorio se realizan pruebas para el desarrollo de nuevas formulas químicas para mejorar la producción y ahorrar costos en materias primas.
+
+
+### Impresora 3D
+
+En Maflow se encuentra la impresora 3D mas grande de Cantabria, concretamente el modelo HP Multi Jet Fusion de la serie 4200. Esta impresora permitex a Maflow producir componentes internos y ofrecer servicios de fabricación aditiva a otras empresas.
+
+Para optimizar sus procesos de diseño y producción, Maflow utiliza herramientas como Autodesk Netfabb y Fusion 360, lo que les ha permitido mejorar la eficiencia y precisión en la fabricación de piezas.
 
 
 [![](https://img.shields.io/badge/-Inicio-FFF?style=for-the-badge&logo=Emlakjet&logoColor=black)](/README.md)

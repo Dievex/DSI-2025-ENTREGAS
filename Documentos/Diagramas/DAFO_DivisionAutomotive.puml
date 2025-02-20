@@ -1,0 +1,28 @@
+@startuml
+rectangle "DAFO - División Automotive" {
+    package "Fortalezas" {
+        [Experiencia en fabricación de tubos y componentes de aluminio]
+        [Certificación de calidad IATF 16949, lo que fortalece la confianza de los clientes]
+        [Producción Just-In-Time (JIT), optimizando costos y eficiencia]
+    
+    }
+    
+    package "Debilidades" {
+        [Dependencia de la industria automotriz, que es cíclica y susceptible a crisis económicas]
+        [Altos costos de producción y materias primas]
+        [Necesidad de constante actualización tecnológica para mantenerse competitivo]
+    }
+    
+    package "Oportunidades" {
+        [ Crecimiento del mercado de vehículos eléctricos e híbridos, que demanda nuevos componentes de refrigeración]
+        [Expansión a nuevos mercados internacionales con requisitos similares de calidad]
+        [Desarrollo de tecnologías más eficientes en fabricación y ensamblaje]
+    }
+    
+    package "Amenazas" {
+        [ Competencia fuerte de fabricantes en países con costos más bajos]
+        [ Regulaciones ambientales más estrictas que pueden incrementar costos]
+        [Disrupciones en la cadena de suministro global que afectan la producción JIT]
+    }
+}
+@enduml

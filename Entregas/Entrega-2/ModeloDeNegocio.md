@@ -21,67 +21,19 @@ Maflow Spain Automotive S.L., es una empresa que comenzó a operar en Cantabria 
 |![](/Documentos/Imagenes/DiagramaModeloNegocio.svg)|
 
 ## DAFO División Automotive
-Fortalezas:
-✔️ Experiencia en fabricación de tubos y componentes de aluminio.
-✔️ Certificación de calidad IATF 16949, lo que fortalece la confianza de los clientes.
-✔️ Producción Just-In-Time (JIT), optimizando costos y eficiencia.
-
-Oportunidades:
-✔️ Crecimiento del mercado de vehículos eléctricos e híbridos, que demanda nuevos componentes de refrigeración.
-✔️ Expansión a nuevos mercados internacionales con requisitos similares de calidad.
-✔️ Desarrollo de tecnologías más eficientes en fabricación y ensamblaje.
-
-Debilidades:
-⚠️ Dependencia de la industria automotriz, que es cíclica y susceptible a crisis económicas.
-⚠️ Altos costos de producción y materias primas.
-⚠️ Necesidad de constante actualización tecnológica para mantenerse competitivo.
-
-Amenazas:
-⚠️ Competencia fuerte de fabricantes en países con costos más bajos.
-⚠️ Regulaciones ambientales más estrictas que pueden incrementar costos.
-⚠️ Disrupciones en la cadena de suministro global que afectan la producción JIT.
+|DAFO Division Automotive|
+|:-:|
+|![](/Documentos/Imagenes/DAFO_DivisionAutomotive.svg)|
 
 ## DAFO División Borygo
-Fortalezas:
-✔️ Amplia gama de productos en líquidos refrigerantes y detailing.
-✔️ Control de calidad químico, lo que garantiza estándares altos.
-✔️ Experiencia en formulación y envasado químico.
-
-Oportunidades:
-✔️ Crecimiento en la demanda de productos ecológicos y biodegradables.
-✔️ Expansión a mercados de mantenimiento de vehículos eléctricos.
-✔️ Posibilidad de alianzas con grandes distribuidores y tiendas retail.
-
-Debilidades:
-⚠️ Dependencia de insumos químicos sujetos a variaciones de precios.
-⚠️ Necesidad de innovación constante para mantenerse competitivo en el sector.
-⚠️ Regulaciones químicas estrictas que pueden limitar ciertos productos.
-
-Amenazas:
-⚠️ Competencia con grandes marcas establecidas en refrigerantes y detailing.
-⚠️ Fluctuaciones en el precio de las materias primas químicas.
-⚠️ Posibles restricciones medioambientales que afecten ciertos productos.
+|DAFO Division Borygo|
+|:-:|
+|![](/Documentos/Imagenes/DAFO_DivisionBorygo.svg)|
 
 # DAFO División Maflow3D
-Fortalezas:
-✔️ Tecnología avanzada en impresión 3D industrial y fabricación rápida.
-✔️ Capacidad de producir series cortas y prototipos, ofreciendo flexibilidad.
-
-Oportunidades:
-✔️ Crecimiento del mercado de manufactura aditiva e impresión 3D en múltiples industrias.
-✔️ Potencial para la optimización de diseño mediante topología computacional.
-✔️ Expansión a nuevos sectores como aeroespacial, médico y energías renovables.
-✔️ Potencial de innovación en materiales avanzados (I+D).
-
-Debilidades:
-⚠️ Costos iniciales elevados en tecnología y materiales especializados.
-⚠️ Dependencia de un nicho de clientes aún en crecimiento.
-⚠️ Necesidad de capacitación constante en nuevas tecnologías y software.
-
-Amenazas:
-⚠️ Evolución rápida de la tecnología que puede hacer obsoletos ciertos equipos.
-⚠️ Competencia con grandes empresas tecnológicas y startups innovadoras.
-⚠️ Regulaciones sobre materiales de impresión 3D que pueden afectar su uso en algunas industrias.
+|DAFO Division Maflow3D|
+|:-:|
+|![](/Documentos/Imagenes/DAFO_DivisionMaflow3D.svg)|
 
 
 ## Propuesta de Valor: 

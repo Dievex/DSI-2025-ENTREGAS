@@ -1,0 +1,29 @@
+@startuml
+rectangle "DAFO - División MAflow3D" {
+    package "Fortalezas" {
+        [Tecnología avanzada en impresión 3D industrial y fabricación rápida]
+        [Capacidad de producir series cortas y prototipos, ofreciendo flexibilidad]
+      
+    
+    }
+    
+    package "Debilidades" {
+        [Costos iniciales elevados en tecnología y materiales especializados]
+        [Dependencia de un nicho de clientes aún en crecimiento]
+        [Necesidad de capacitación constante en nuevas tecnologías y software]
+    }
+    
+    package "Oportunidades" {
+        [Crecimiento del mercado de manufactura aditiva e impresión 3D en múltiples industrias]
+        [Potencial para la optimización de diseño mediante topología computacional]
+        [Expansión a nuevos sectores como aeroespacial, médico y energías renovables]
+        [Potencial de innovación en materiales avanzados (I+D)]
+    }
+    
+    package "Amenazas" {
+        [Evolución rápida de la tecnología que puede hacer obsoletos ciertos equipos ]
+        [Competencia con grandes empresas tecnológicas y startups innovadoras ]
+        [Regulaciones sobre materiales de impresión 3D que pueden afectar su uso en algunas industrias ]
+    }
+}
+@enduml

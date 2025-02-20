@@ -140,11 +140,11 @@ Distribuye los elementos y piezas anteriores además de rodamientos bajo la marc
 
 ## Canales de distribución
 
-### Venta directa a fabricantes a tavés de equip comercial especializado
-- Al mantener relaciones directas con fabricantes como Volkswagen, Audi, Renault, etc. Maflow y su equipo comercial aseguran la adaptación de sus productos a as especificaciones de los clientes, agilizando así tanto ptocesos de negocicación como de entrega
+### Venta directa a fabricantes a tavés de equipo comercial especializado
+- Al mantener relaciones directas con fabricantes como Volkswagen, Audi, Renault, etc. Maflow y su equipo comercial aseguran la adaptación de sus productos a las especificaciones de los clientes, agilizando así tanto procesos de negocicación como de entrega
 
 ### Portal B2B y sistema Sap para la gestión de pedidos
-- A través del SAP (Systems, Applications & Products in Data Processing) no solo se mejora la precisión en la gestión de pedidos sino que también le permite a los clientes acceso e información sobre sus pedidos, fortaleciendo la confianza en sus operaciones
+- A través del SAP (Systems, Applications & Products in Data Processing) no solo se mejora la precisión en la gestión de pedidos, sino que también le permite a los clientes acceso e información a sus pedidos, fortaleciendo la confianza en sus operaciones
 
 
 ## Relación con clientes  

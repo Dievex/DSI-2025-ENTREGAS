@@ -206,6 +206,24 @@ Su experiencia en fabricación aditiva les capacita para transformar las ideas d
 
 
 ### Asistencia técnica continua
-Más allá de la entrega del producto, se ofrece un acompañamiento integral durante todo su ciclo de vida. Su compromiso incluye soporte técnico constante, asegurando que los productos mantengan un rendimiento óptimo y que cualquier incidencia sea resuelta de manera rápida y efectiva. Esta dedicación refuerza la confianza y satisfacción de los clientes, consolidando relaciones a largo plazo basadas en la fiabilidad y el apoyo mutuo.  
+Más allá de la entrega del producto, se ofrece un acompañamiento integral durante todo su ciclo de vida. Su compromiso incluye soporte técnico constante, asegurando que los productos mantengan un rendimiento óptimo y que cualquier incidencia sea resuelta de manera rápida y efectiva. Esta dedicación refuerza la confianza y satisfacción de los clientes, consolidando relaciones a largo plazo basadas en la fiabilidad y el apoyo mutuo. 
+
+## Recursos claves
+Recursos clave en una empresa es cualquier activo que permite operar, diferenciar la competencia y generar valor al cliente, siendo elementos esenciales para competir en el mercado.
+En maflow spain automotive podemos nombrar los siguientes recursos claves: 
+
+
+### Plantas de producción automatizadas
+Fábricas automatizadas son instalaciones industriales donde la mayoría de los procesos son ejecutados por máquinas o controlados por computadores. Instalaciones como estas,  permiten la rápida y eficiente producción en série y a bajo costo.
+
+### Laboratórios de prueba
+Para tener un alto padrón de calidad y excelencia, es necesario que se tenga laboratorios que dispongan del equipo necesario y el personal calificado para hagan mediciones, análisis y pruebas o calibraciones. Tras pasar por el laboratorio de prueba, el producto ya puede entrar en el mercado.
+
+### Técnicos o personal especializado
+Personal con alto nivel de conocimiento agrega más a la empresa y permite que los productos sean un alto nivel de calidad como ejemplo un ingenieros termodinámicos, para proyectar ciclos eficientes de refrigeración y ventilación, o un especialista en norma y calidad, encargado de garantizar que cada producto cumpla las especificaciones del cliente y el reglamento del sector.
+
+### Patentes
+Una patente es un título de propiedad industrial que reconoce el derecho exclusivo sobre una invención, impidiendo a otros su fabricación, venta o utilización. Las patentes son importantes para diferenciarte del resto de la competencia y para fidelizar clientes.
+
 
 [![](https://img.shields.io/badge/-Inicio-FFF?style=for-the-badge&logo=Emlakjet&logoColor=black)](/README.md)

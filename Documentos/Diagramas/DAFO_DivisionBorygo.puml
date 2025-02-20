@@ -1,0 +1,28 @@
+@startuml
+rectangle "DAFO - División Borygo" {
+    package "Fortalezas" {
+        [Amplia gama de productos en líquidos refrigerantes y detailing]
+        [Control de calidad químico, lo que garantiza estándares altos]
+        [ Experiencia en formulación y envasado químico]
+    
+    }
+    
+    package "Debilidades" {
+        [Dependencia de insumos químicos sujetos a variaciones de precios]
+        [Necesidad de innovación constante para mantenerse competitivo en el sector]
+        [Regulaciones químicas estrictas que pueden limitar ciertos productos]
+    }
+    
+    package "Oportunidades" {
+        [Crecimiento en la demanda de productos ecológicos y biodegradables]
+        [Expansión a mercados de mantenimiento de vehículos eléctricos]
+        [Posibilidad de alianzas con grandes distribuidores y tiendas retail]
+    }
+    
+    package "Amenazas" {
+        [ Competencia con grandes marcas establecidas en refrigerantes y detailing ]
+        [ Fluctuaciones en el precio de las materias primas químicas ]
+        [ Posibles restricciones medioambientales que afecten ciertos productos]
+    }
+}
+@enduml

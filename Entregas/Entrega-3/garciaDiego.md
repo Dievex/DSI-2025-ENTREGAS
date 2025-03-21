@@ -68,25 +68,26 @@
 
 
 ### Permisos de aplicaciones
-| Aplicación  | Permisos Concedidos | Nivel de Riesgo | Acción Requerida |
-|-----------------------|----------------------|-----------------|-------------------|
-| Instagram | Ubicación (Al usarse), Contactos, Fotos, Micrófono, Cámara | Alto | Limitar accesos innecesarios |
-| Whatsapp | Ubicación (Al usarse), Contactos, Fotos, Bluetooth, Micrófono, Cámara | Alto | Limitar accesos innecesario |
-| Waze | Ubicación (Al usarse), Multimedia | Bajo | Comprobar que la ubicación no se usa mas alla que para el navegador|
+| Aplicación  | Permisos Concedidos | Nivel de Riesgo |
+|-----------------------|----------------------|-----------------|
+| Instagram | Ubicación (Al usarse), Contactos, Fotos, Micrófono, Cámara | Alto |
+| Whatsapp | Ubicación (Al usarse), Contactos, Fotos, Bluetooth, Micrófono, Cámara | Alto |
+| Waze | Ubicación (Al usarse), Multimedia | Bajo |
 
 ### Servicios vinculados
-| Proveedor | Aplicaciones Conectadas | Nivel de Acceso |
+| Empresa | Aplicaciones | Nivel de Acceso |
 |-----------|--------------------------|-----------------|
 | **Google** | Instagram, Tiktok, ChatGPT, Youtube, Drive, Juegos (Clash of clans, Pokemon TCGP) | Completo |
 | **Apple** | iCloud, App Store, Apple TV... (Servicios de Apple) | Completo |
 | **Microsoft** | Outlook, Teams, M365... | Completo |
 
 ### Interacciones con IA
-| Plataforma IA | Tipo de Interacción | Datos Compartidos | Configuración Privacidad |
-|---------------|---------------------|--------------------|--------------------------|
-| **ChatGPT** | Consultas académicas y personales | Textos académidos/personales | No guardar datos en memoria |
-| **GitHub Copilot** | Desarrollo código | Fragmentos código | No existe |
-| **Deepseek** | Consultas académicas | Textos académicos | No existe |
+| IA | Interacción | Privacidad |
+|---------------|---------------------|--------------------------|
+| **ChatGPT** | Consultas académicas y personales| No guardar datos en memoria |
+| **GitHub Copilot** | Desarrollo código | No existe |
+| **Deepseek** | Consultas académicas | No existe |
+| **Claude** | Consultas profesionales y personales | No guardar datos en memoria |
 
 
 

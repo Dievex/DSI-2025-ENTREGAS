@@ -36,7 +36,7 @@
      - Instagram (`@sebastian_chmielowski`)
      - X (`@SebasCh`)
      - BeReal (`@sebastianchmielowski`)
-     - GitHub (`Sebasyian-chmielowski`)
+     - GitHub (`Sebastian-chmielowski`)
      - Discord (`sebas25a`)
 
 2. **Conexiones específicas**:

@@ -19,7 +19,7 @@
 ### Plataformas Emergentes
 | Plataforma   | Presencia | Usuario     | Observaciones |
 |--------------|-----------|-------------|---------------|
-| BeReal       | Si        | `@sebastianchmielowski` | - |
+| BeReal       | Si        | `@sebastianchmielowski` | Inactivo |
 | Threads      | No        | -                       | - |
 | Mastodon     | No        | -                       | - |
-| Discord      | Sí        | `Sebas25a` | - |
+| Discord      | Sí        | `Sebas25a` | Inactivo |

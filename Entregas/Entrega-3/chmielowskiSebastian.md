@@ -12,6 +12,6 @@
 | Plataforma   | Presencia | Usuario        | Observaciones |
 |--------------|-----------|----------------|---------------|
 | Facebook     | Si        | `Sebastian Chmielowski`| Noticias-Entretenimiento |
-| Instagram    | Sí        | `@Dsebastian_chmielowski`  | Entretenimiento |
+| Instagram    | Sí        | `@sebastian_chmielowski`  | Entretenimiento |
 | LinkedIn     | Sí        | `Sebastian Chmielowski Rodríguez`  | Cuenta profesional |
-| X            | Sí        | `@Diego30_02` | Noticias-Entretenimiento |
+| X            | Sí        | `@SebasCh` | Noticias-Entretenimiento |

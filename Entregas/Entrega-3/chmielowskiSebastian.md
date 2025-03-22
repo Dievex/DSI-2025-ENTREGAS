@@ -47,3 +47,33 @@
 - Mi nombre suele ser la base de cualquier usuario, dependiendo de los requisitos de la plataforma para crear la cuenta suelo poner alguna variación.
 
 - Comparto la misma contraseña para varias plataformas lo que no es recomendabe y debería de cambiarse
+
+## Verificación de seguridad
+
+### Exposición en brechas de datos
+
+[Have I Been Pwned](https://haveibeenpwned.com/) al introducir el correo `sebarek222@gmail.com` aparece lo siguiente:
+
+| Aplicación | Descripción | Datos comprometidos | Observaciones |
+|------------|-------------|----------------------|---------------|
+| Canva      | En mayo de 2019, Canva sufrió una filtración de datos que afectó a 137 millones de usuarios, exponiendo correos electrónicos, nombres, ciudades y contraseñas encriptadas. | Direcciones de correo electrónico, ubicaciones geográficas, nombres, contraseñas, nombres de usuario          | Mi cuenta fue creada en 2018 así que es probable que pueda haber sido afectado |
+
+
+### Permisos de aplicaciones
+| Aplicación  | Permisos Concedidos | Nivel de Riesgo |
+|-----------------------|----------------------|-----------------|
+| Instagram | Ubicación (Al usarse), Contactos, Fotos, Micrófono, Cámara | Alto |
+| Whatsapp | Ubicación (Al usarse), Contactos, Fotos, Bluetooth, Micrófono, Cámara | Alto |
+| Waze | Ubicación (Al usarse), Multimedia | Bajo |
+
+### Servicios vinculados
+| Empresa | Aplicaciones | Nivel de Acceso |
+|-----------|--------------------------|-----------------|
+| **Google** | Instagram, Tiktok, ChatGPT, Youtube, Drive | Completo |
+| **Apple** | iCloud, App Store | Completo |
+| **Microsoft** | Outlook, Teams | Completo |
+
+### Interacciones con IA
+| IA | Interacción | Privacidad |
+|---------------|---------------------|--------------------------|
+| **ChatGPT** | Consultas académicas y personales| No guardar datos en memoria |

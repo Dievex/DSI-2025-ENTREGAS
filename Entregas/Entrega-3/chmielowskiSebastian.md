@@ -5,3 +5,13 @@
 ### EgoSurfing
 
 <img width="1368" alt="Captura de pantalla 2025-03-22 a la(s) 19 11 04" src="https://github.com/user-attachments/assets/2e78bdc5-0947-4dcf-86f6-a1f569b9e384" />
+
+## Análisis de plataformas
+
+### Redes Sociales Tradicionales
+| Plataforma   | Presencia | Usuario        | Observaciones |
+|--------------|-----------|----------------|---------------|
+| Facebook     | Si        | `Sebastian Chmielowski`| Noticias-Entretenimiento |
+| Instagram    | Sí        | `@Dsebastian_chmielowski`  | Entretenimiento |
+| LinkedIn     | Sí        | `Sebastian Chmielowski Rodríguez`  | Cuenta profesional |
+| X            | Sí        | `@Diego30_02` | Noticias-Entretenimiento |

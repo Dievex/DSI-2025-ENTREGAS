@@ -23,3 +23,27 @@
 | Threads      | No        | -                       | - |
 | Mastodon     | No        | -                       | - |
 | Discord      | Sí        | `Sebas25a` | Inactivo |
+
+### Alias y Usuarios Detectados
+- **Foros especializados**: 
+  - **GitHub**: `sebastian-chmieloski`
+    *(Mi cuenta de GitHub)*
+
+### Interconexión entre Plataformas
+
+1. **Patrón de usernames**:
+   - `Sebastian Chmielowski` suele ser la base común en las plataformas pero casi todas contienen alguna variación
+     - Instagram (`@sebastian_chmielowski`)
+     - X (`@SebasCh`)
+     - BeReal (`@sebastianchmielowski`)
+     - GitHub (`Sebasyian-chmielowski`)
+     - Discord (`sebas25a`)
+
+2. **Conexiones específicas**:
+   - **Instagram → Facebook**: 
+        - Instagram y facebook al pertenecer a la misma compañía estan interconectadas unas con otras
+
+### Conclusiones Plataformas
+- Mi nombre suele ser la base de cualquier usuario, dependiendo de los requisitos de la plataforma para crear la cuenta suelo poner alguna variación.
+
+- Comparto la misma contraseña para varias plataformas lo que no es recomendabe y debería de cambiarse

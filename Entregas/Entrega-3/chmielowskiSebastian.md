@@ -4,4 +4,4 @@
 
 ### EgoSurfing
 
-<img width="1362" alt="Captura de pantalla 2025-03-22 a la(s) 19 09 26" src="https://github.com/user-attachments/assets/b1291064-f3e6-4f0a-a75b-460b93d74288" />
+<img width="1365" alt="Captura de pantalla 2025-03-22 a la(s) 19 10 08" src="https://github.com/user-attachments/assets/63e7d6cc-54e8-461b-af1d-fbec08bbde56" />

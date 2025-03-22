@@ -15,3 +15,11 @@
 | Instagram    | Sí        | `@sebastian_chmielowski`  | Entretenimiento |
 | LinkedIn     | Sí        | `Sebastian Chmielowski Rodríguez`  | Cuenta profesional |
 | X            | Sí        | `@SebasCh` | Noticias-Entretenimiento |
+
+### Plataformas Emergentes
+| Plataforma   | Presencia | Usuario     | Observaciones |
+|--------------|-----------|-------------|---------------|
+| BeReal       | Si        | `@sebastianchmielowski` | - |
+| Threads      | No        | -                       | - |
+| Mastodon     | No        | -                       | - |
+| Discord      | Sí        | `Sebas25a` | - |

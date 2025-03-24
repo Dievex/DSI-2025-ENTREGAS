@@ -30,12 +30,12 @@
 
 |Plataforma|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Total grupo|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Redes Sociales|-|-|-|-|-|-|-|-|-|-|-|
-|Foros/Blogs|-|-|-|-|-|-|-|-|-|-|-|
-|Noticias|-|-|-|-|-|-|-|-|-|-|-|
-|Documentos|-|-|-|-|-|-|-|-|-|-|-|
-|Imágenes|-|-|-|-|-|-|-|-|-|-|-|
-|Otros|-|-|-|-|-|-|-|-|-|-|-|
+|Redes Sociales|-|-|-|-|-|3|-|-|-|-|-|
+|Foros/Blogs|-|-|-|-|-|0|-|-|-|-|-|
+|Noticias|-|-|-|-|-|0|-|-|-|-|-|
+|Documentos|-|-|-|-|-|0|-|-|-|-|-|
+|Imágenes|-|-|-|-|-|0|-|-|-|-|-|
+|Otros|-|-|-|-|-|4|-|-|-|-|-|
 
 </div>
 

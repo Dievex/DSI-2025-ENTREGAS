@@ -16,11 +16,11 @@
 
 |Métrica|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Patrón grupal<br>(Media y desviación)|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Índice de exposición global|🟡|-|-|-|-|-|-|-|-|-|-|
-|Nº total de hallazgos|15|-|-|-|-|-|-|-|-|-|-|
-|% hallazgos en control total|3|-|-|-|-|-|-|-|-|-|-|
-|% hallazgos en control parcial|0|-|-|-|-|-|-|-|-|-|-|
-|% hallazgos sin control|12|-|-|-|-|-|-|-|-|-|-|
+|Índice de exposición global|🟡|-|-|-|-|🟢|-|-|-|-|-|
+|Nº total de hallazgos|15|-|-|-|-|7|-|-|-|-|-|
+|% hallazgos en control total|3|-|-|-|-|4|-|-|-|-|-|
+|% hallazgos en control parcial|0|-|-|-|-|0|-|-|-|-|-|
+|% hallazgos sin control|12|-|-|-|-|3|-|-|-|-|-|
 
 </div>
 

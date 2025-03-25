@@ -3,7 +3,10 @@
 # HUELLA DIGITAL ANETTE TORRES
 
 ### EgoSurfing
-Documentos/Imagenes/EgoSurfing.AnetteMaldonado.png
+
+![EgoSurfing](Documentos/Imagenes/EgoSurfing.AnetteMaldonado.png)
+
+
 https://docs.google.com/spreadsheets/d/1Q2DFFofPGzTIRGFImY1qp3F-5Eo4-XVy/edit?usp=drive_link&ouid=116992605852371000866&rtpof=true&sd=true
 
 

@@ -5,7 +5,7 @@
 ### EgoSurfing
 
 ![EgoSurfing](/Documentos/Imagenes/egoSurfingDiegoGarcia.png)
-ñ
+
 ## Análisis de plataformas
 
 ### Redes Sociales Tradicionales

@@ -60,9 +60,14 @@ https://docs.google.com/spreadsheets/d/1Q2DFFofPGzTIRGFImY1qp3F-5Eo4-XVy/edit?us
 ### Exposición en brechas de datos
 
 
-[Have I Been Pwned](https://haveibeenpwned.com/) introduciendo el siguiente correo `anettemaldonado12@gmail.com`:
+[Have I Been Pwned](https://haveibeenpwned.com/) introduciendo el siguiente correo `anettemaldonado12@gmail.com` me dice la siguiente información:
 
-Sufrí una filtración en este correo.
+Brechas en las que fuiste atacado
+Una "filtración" es un incidente en el que los datos se exponen al público de forma involuntaria. Usar el gestor de contraseñas de 1Password te ayuda a garantizar que todas tus contraseñas sean seguras y únicas, de modo que una filtración de un servicio no ponga en riesgo los demás.
+
+Caimán Manipulado ( lista de spam ) : En julio de 2023, Perception Point informó sobre una operación de phishing denominada "Caimán Manipulado" . Dirigida principalmente a ciudadanos mexicanos, la campaña intentó acceder a las cuentas bancarias de las víctimas mediante ataques de phishing selectivo con archivos adjuntos maliciosos. Los investigadores obtuvieron casi 40 millones de direcciones de correo electrónico objetivo de la campaña y proporcionaron los datos a HIBP para alertar a las posibles víctimas.
+
+Datos comprometidos: direcciones de correo electrónico
 
 ### Permisos de aplicaciones
 | Aplicación  | Permisos Concedidos | Nivel de Riesgo |

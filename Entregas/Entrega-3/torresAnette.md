@@ -5,7 +5,7 @@
 ### EgoSurfing
 
 ![EgoSurfing](Documentos/Imagenes/EgoSurfingAnetteMaldonado.png)
-
+![EgoSurfing](/Documentos/Imagenes/egoSurfingDiegoGarcia.png)
 
 
 

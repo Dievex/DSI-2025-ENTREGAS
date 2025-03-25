@@ -48,7 +48,7 @@ https://docs.google.com/spreadsheets/d/1Q2DFFofPGzTIRGFImY1qp3F-5Eo4-XVy/edit?us
 
 
 ### Conclusiones Plataformas
-- Es muy comun que use los mismos nombres y contraseñas en mis cuentas.
+- Es muy común que use los mismos nombres y contraseñas en mis cuentas.
 
 
 ## Verificación de seguridad

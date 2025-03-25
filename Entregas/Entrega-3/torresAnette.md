@@ -57,7 +57,7 @@ https://docs.google.com/spreadsheets/d/1Q2DFFofPGzTIRGFImY1qp3F-5Eo4-XVy/edit?us
 ### Exposición en brechas de datos
 
 
-[Have I Been Pwned](https://haveibeenpwned.com/) introduciendo el siguiente correo `prietogomezlucia@gmail.com`:
+[Have I Been Pwned](https://haveibeenpwned.com/) introduciendo el siguiente correo `anettemaldonado12@gmail.com`:
 
 
 No he sufrido filtraciones de datos con ese correo.

@@ -41,7 +41,7 @@ https://docs.google.com/spreadsheets/d/1Q2DFFofPGzTIRGFImY1qp3F-5Eo4-XVy/edit?us
 1. **Patrón de usernames**:
   - `Anette Maldonado` como base común en:
     - Instagram (`@Anette Maldonado`)
-    - BeReal (`@Anette Maldonado`)
+    - Facebook (`@Anette Maldonado`)
        
 3. **Posibles riesgos de vinculación**:
   - En casi todos los usernames utilizo mi segundo nombre y mi segundo apellido.
@@ -66,15 +66,15 @@ No he sufrido filtraciones de datos con ese correo.
 ### Permisos de aplicaciones
 | Aplicación  | Permisos Concedidos | Nivel de Riesgo |
 |-----------------------|----------------------|-----------------|
-| Instagram | Ubicación (Al usarse), Contactos, Fotos, Micrófono, Cámara | Alto |
+| Instagram | Ubicación (Al usarse), Contactos, Fotos, Cámara, Micrófono | Alto |
 | Whatsapp | Ubicación (Al usarse), Contactos, Fotos, Bluetooth, Micrófono, Cámara | Alto |
-| TikTok | Ubicación (Al usarse), Contactos, Fotos, Bluetooth, Micrófono, Cámara | Alto |
+| Facebook | Ubicación (al usarse), Fotos, Cámara, Micrófono| Medio |
 
 
 ### Servicios vinculados
 | Empresa | Aplicaciones | Nivel de Acceso |
 |-----------|--------------------------|-----------------|
-| **Google** | Instagram, Tiktok, ChatGPT, Youtube, Drive, Juegos (Pokemon TCGP) | Completo |
+| **Google** | Instagram, ChatGPT, Youtube, Drive, Juegos (Age of Empires)| Completo |
 | **Apple** | iCloud, App Store, Apple TV... (Servicios de Apple) | Completo |
 | **Microsoft** | Outlook, Teams, M365... | Completo |
 
@@ -82,4 +82,4 @@ No he sufrido filtraciones de datos con ese correo.
 ### Interacciones con IA
 | IA | Interacción | Privacidad |
 |---------------|---------------------|--------------------------|
-| **ChatGPT** | Consultas académicas y personales| Sí guardar datos en memoria |
+| **ChatGPT** | Consultas académicas | No guardar datos en memoria |

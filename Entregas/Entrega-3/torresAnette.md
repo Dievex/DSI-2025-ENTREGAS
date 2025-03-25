@@ -5,8 +5,6 @@
 ### EgoSurfing
 https://docs.google.com/spreadsheets/d/1Q2DFFofPGzTIRGFImY1qp3F-5Eo4-XVy/edit?usp=drive_link&ouid=116992605852371000866&rtpof=true&sd=true
 
-![EgoSurfing](/Documentos/Imagenes/eggoSurfingLuciaPrieto.jpeg)
-
 
 ## Análisis de plataformas
 

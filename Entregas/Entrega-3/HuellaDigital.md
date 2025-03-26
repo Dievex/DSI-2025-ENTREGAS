@@ -46,7 +46,7 @@
 |Vulnerabilidad|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% Grupo|Riesgo medio|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Datos personales expuestos|-|-|-|-|-|-|-|-|-|3|-|-|
-|Información profesional|-|-|-|-|-|-|-|-|-|-|1|-|
+|Información profesional|-|-|-|-|-|-|-|-|-|1|-|-|
 |Fotos personales|-|-|-|-|-|-|-|-|-|2|-|-|
 |Menciones en medios|-|-|-|-|-|-|-|-|-|0|-|-|
 |Documentos académicos|-|-|-|-|-|-|-|-|-|1|-|-|
@@ -86,10 +86,10 @@
 
 |Categoría de impacto|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Impacto grupal|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Personal|-|-|-|-|-|-|-|-|-|-|3|-|
-|Profesional|-|-|-|-|-|-|-|-|-|-|1|-|
-|Académico|-|-|-|-|-|-|-|-|-|-|1|-|
-|Social|-|-|-|-|-|-|-|-|-|-|2|-|
+|Personal|-|-|-|-|-|-|-|-|-|3|-|-|
+|Profesional|-|-|-|-|-|-|-|-|-|1|-|-|
+|Académico|-|-|-|-|-|-|-|-|-|1|-|-|
+|Social|-|-|-|-|-|-|-|-|-|2|-|-|
 
 </div>
 

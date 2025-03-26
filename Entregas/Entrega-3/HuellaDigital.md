@@ -32,7 +32,7 @@
 |Nº total de hallazgos|15|7|-|13|7|7|12|7|-|-|-|
 |% hallazgos en control total|3|1|-|3|1|4|5|5|-|-|-|
 |% hallazgos en control parcial|0|0|-|0|0|0|0|0|-|-|-|
-|% hallazgos sin control|12|6|-|10|6|3|7|2|-|-|-|
+|% hallazgos sin control|12|0|-|10|6|3|7|2|-|-|-|
 
 </div>
 
@@ -44,10 +44,10 @@
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |Redes Sociales|4|4|-|6|1|3|6|4|-|-|-|
 |Foros/Blogs|3|0|-|0|0|0|2|-|-|-|-|
-|Noticias|2|0|-|1|0|0|0|-|-|-|-|
+|Noticias|2|1|-|1|0|0|0|-|-|-|-|
 |Documentos|-|0|-|0|4|0|3|-|-|-|-|
-|Imágenes|-|1|-|1|0|0|0|1|-|-|-|
-|Otros|6|0|-|5|2|4|1|2|-|-|-|
+|Imágenes|-|0|-|1|0|0|0|1|-|-|-|
+|Otros|6|-|0|5|2|4|1|2|-|-|-|
 
 </div>
 
@@ -74,7 +74,7 @@
 |Tipo de control|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% Grupo|Riesgo promedio|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Total|3|1|-|3|1|4|4|5|-|-|-|-|-|
-|Parcial|0|0|-|3|0|0|0|0|-|-|-|-|-|
+|Parcial|-|0|-|3|0|0|0|0|-|-|-|-|-|
 |Nulo|12|6|-|10|6|3|7|2|-|-|-|-|-|
 
 </div>
@@ -85,11 +85,11 @@
 
 |Exposición|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% grupal|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Total brechas|1|-|-|1|0|2|0|0|-|-|-|-|
-|Datos personales|1|-|-|1|0|0|0|0|-|-|-|-|
-|Contraseñas|1|-|-|1|0|0|0|0|-|-|-|-|
-|Emails|1|-|-|1|0|2|0|0|-|-|-|-|
-|Servicios críticos|-|-|-|0|0|0|0|0|-|-|-|-|
+|Total brechas|1|0|-|1|0|2|0|0|-|-|-|-|
+|Datos personales|1|0|-|1|0|0|0|0|-|-|-|-|
+|Contraseñas|1|0|-|1|0|0|0|0|-|-|-|-|
+|Emails|1|0|-|1|0|2|0|0|-|-|-|-|
+|Servicios críticos|-|0|-|0|0|0|0|0|-|-|-|-|
 
 </div>
 
@@ -99,10 +99,10 @@
 
 |Categoría de impacto|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Impacto grupal|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Personal|-|-|-|1|-|3|0|4|-|-|-|-|
-|Profesional|1|-|-|0|1|0|0|1|-|-|-|-|
-|Académico|-|-|-|0|1|1|0|0|-|-|-|-|
-|Social|3|-|-|0|3|0|5|-|-|-|-|-|
+|Personal|-|0|-|1|-|3|0|4|-|-|-|-|
+|Profesional|1|0|-|0|1|0|0|1|-|-|-|-|
+|Académico|-|0|-|0|1|1|0|0|-|-|-|-|
+|Social|3|0|-|0|3|0|5|-|-|-|-|-|
 
 </div>
 

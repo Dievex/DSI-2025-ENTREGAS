@@ -3,6 +3,8 @@
 # HUELLA DIGITAL EDUARDO OLEA
 ### Egosurfing
 
+![EgoSurfing](/Documentos/Imagenes/egoSurfingEduardoOlea.jpeg)
+
 
 ## Redes tradicionales
 |Red Social|Presencia|Usuario|Observaciones|

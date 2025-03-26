@@ -28,11 +28,11 @@
 
 |Métrica|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Patrón grupal<br>(Media y desviación)|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Índice de exposición global|🟡|🟡|🟡|-|🔴|🟢|🟢|🟢|🟡|-|-|
-|Nº total de hallazgos|15|7|7|13|7|7|12|7|12|-|-|
-|% hallazgos en control total|3|1|3|3|1|4|5|5|5|-|-|
-|% hallazgos en control parcial|0|0|0|0|0|0|0|0|0|-|-|
-|% hallazgos sin control|12|0|5|10|6|3|7|2|7|-|-|
+|Índice de exposición global|🟡|🟡|🟡|🟢|🔴|🟢|🟢|🟢|🟡|🟢|-|
+|Nº total de hallazgos|15|7|7|13|7|7|12|7|12|3|-|
+|% hallazgos en control total|3|1|3|3|1|4|5|5|5|3|-|
+|% hallazgos en control parcial|0|0|0|0|0|0|0|0|0|0|-|
+|% hallazgos sin control|12|0|5|10|6|3|7|2|7|0|-|
 
 </div>
 
@@ -42,12 +42,12 @@
 
 |Plataforma|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Total grupo|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Redes Sociales|4|4|6|6|1|3|6|4|6|-|-|
-|Foros/Blogs|3|0|0|0|0|0|2|-|-|-|-|
-|Noticias|2|1|0|1|0|0|0|-|-|-|-|
-|Documentos|-|0|1|0|4|0|3|-|2|-|-|
-|Imágenes|-|0|0|1|0|0|0|1|-|-|-|
-|Otros|6|0|0|5|2|4|1|2|4|-|-|
+|Redes Sociales|4|4|6|6|1|3|6|4|6|3|-|
+|Foros/Blogs|3|0|0|0|0|0|2|-|-|0|-|
+|Noticias|2|1|0|1|0|0|0|-|-|0|-|
+|Documentos|0|0|1|0|4|0|3|-|2|0|-|
+|Imágenes|0|0|0|1|0|0|0|1|-|0|-|
+|Otros|6|0|0|5|2|4|1|2|4|0|-|
 
 </div>
 
@@ -57,13 +57,12 @@
 
 |Vulnerabilidad|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% Grupo|Riesgo medio|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Datos personales expuestos|2|0|0|0|0|0|0|0|0|-|-|-|
-|Información profesional|1|0|0|0|1|0|0|1|0|-|-|-|
-|Fotos personales|3|0|1|1|0|3|0|1|0|-|-|-|
-|Menciones en medios|-|0|0|0|0|0|0|0|0|-|-|-|
-|Documentos académicos|-|0|0|0|1|1|0|0|1|-|-|-|
-|Perfiles abandonados|-|2|1|1|0|0|0|0|1|-|-|-|
-
+|Datos personales expuestos|2|0|0|0|0|0|0|0|0|3|-|-|
+|Información profesional|1|0|0|0|1|0|0|1|0|1|-|-|
+|Fotos personales|3|0|1|1|0|3|0|1|0|2|-|-|
+|Menciones en medios|-|0|0|0|0|0|0|0|0|0|-|-|
+|Documentos académicos|-|0|0|0|1|1|0|0|1|1|-|-|
+|Perfiles abandonados|-|2|1|1|0|0|0|0|1|0|-|-|
 
 </div>
 
@@ -73,9 +72,9 @@
 
 |Tipo de control|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% Grupo|Riesgo promedio|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Total|3|1|2|3|1|4|4|5|-|-|-|-|-|
-|Parcial|-|0|0|3|0|0|0|0|-|-|-|-|-|
-|Nulo|12|6|5|10|6|3|7|2|-|-|-|-|-|
+|Total|3|1|2|3|1|4|4|5|-|3|-|-|-|
+|Parcial|-|0|0|3|0|0|0|0|-|0|-|-|-|
+|Nulo|12|6|5|10|6|3|7|2|-|0|-|-|-|
 
 </div>
 
@@ -85,11 +84,11 @@
 
 |Exposición|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% grupal|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Total brechas|1|0|2|1|0|2|0|0|-|-|-|-|
-|Datos personales|1|0|1|1|0|0|0|0|-|-|-|-|
-|Contraseñas|1|0|4|1|0|0|0|0|-|-|-|-|
-|Emails|1|0|1|1|0|2|0|0|-|-|-|-|
-|Servicios críticos|-|0|1|0|0|0|0|0|-|-|-|-|
+|Total brechas|1|0|2|1|0|2|0|0|-|1|-|-|
+|Datos personales|1|0|1|1|0|0|0|0|-|0|-|-|
+|Contraseñas|1|0|4|1|0|0|0|0|-|0|-|-|
+|Emails|1|0|1|1|0|2|0|0|-|1|-|-|
+|Servicios críticos|-|0|1|0|0|0|0|0|-|0|-|-|
 
 </div>
 
@@ -99,10 +98,10 @@
 
 |Categoría de impacto|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Impacto grupal|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Personal|-|0|0|1|-|3|0|4|-|-|-|-|
-|Profesional|1|0|0|0|1|0|0|1|-|-|-|-|
-|Académico|-|0|0|0|1|1|0|0|-|-|-|-|
-|Social|3|0|0|0|3|0|5|-|-|-|-|-|
+|Personal|-|0|0|1|-|3|0|4|-|3|-|-|
+|Profesional|1|0|0|0|1|0|0|1|-|1|-|-|
+|Académico|-|0|0|0|1|1|0|0|-|1|-|-|
+|Social|3|0|0|0|3|0|5|-|2|-|-|-|
 
 </div>
 

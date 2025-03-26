@@ -4,7 +4,7 @@
 
 ### EgoSurfing
 
-![EgoSurfing](/Documentos/Imagenes/egoSurfingCesarGarcia.png)
+![EgoSurfing](/Documentos/Imagenes/EgoSurfingCesarGarcia.png)
 
 [Enlace a google sheets](https://docs.google.com/spreadsheets/d/1aqsPYb_3zjXWMxrk5cVUV9LVYwD2hEUucYGLaWOnRBU/edit?usp=sharing)
 

@@ -60,9 +60,9 @@
 
 |Tipo de control|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% Grupo|Riesgo promedio|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Total|-|-|-|-|-|-|-|-|-|-|3|-|-|
-|Parcial|-|-|-|-|-|-|-|-|-|-|0|-|-|
-|Nulo|-|-|-|-|-|-|-|-|-|-|0|-|-|
+|Total|-|-|-|-|-|-|-|-|-|3|-|-|-|
+|Parcial|-|-|-|-|-|-|-|-|-|0|-|-|-|
+|Nulo|-|-|-|-|-|-|-|-|-|0|-|-|-|
 
 </div>
 

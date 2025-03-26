@@ -72,10 +72,10 @@
 
 |Exposición|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% grupal|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Total brechas|-|-|-|-|-|2|-|0|-|-|-|-|
-|Datos personales|-|-|-|-|-|0|-|0|-|-|-|-|
-|Contraseñas|-|-|-|-|-|0|-|0|-|-|-|-|
-|Emails|-|-|-|-|-|2|-|0|-|-|-|-|
+|Total brechas|1|-|-|-|-|2|-|0|-|-|-|-|
+|Datos personales|1|-|-|-|-|0|-|0|-|-|-|-|
+|Contraseñas|1|-|-|-|-|0|-|0|-|-|-|-|
+|Emails|1|-|-|-|-|2|-|0|-|-|-|-|
 |Servicios críticos|-|-|-|-|-|0|-|0|-|-|-|-|
 
 </div>

@@ -16,11 +16,11 @@
 
 |Métrica|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Patrón grupal<br>(Media y desviación)|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Índice de exposición global|🟡|-|-|-|-|🟢|-|🟢|-|-|-|
-|Nº total de hallazgos|15|-|-|-|-|7|-|7|-|-|-|
-|% hallazgos en control total|3|-|-|-|-|4|-|5|-|-|-|
-|% hallazgos en control parcial|0|-|-|-|-|0|-|0|-|-|-|
-|% hallazgos sin control|12|-|-|-|-|3|-|2|-|-|-|
+|Índice de exposición global|🟡|-|-|-|🔴|🟢|-|🟢|-|-|-|
+|Nº total de hallazgos|15|-|-|-|7|7|-|7|-|-|-|
+|% hallazgos en control total|3|-|-|-|1|4|-|5|-|-|-|
+|% hallazgos en control parcial|0|-|-|-|0|0|-|0|-|-|-|
+|% hallazgos sin control|12|-|-|-|6|3|-|2|-|-|-|
 
 </div>
 
@@ -30,12 +30,12 @@
 
 |Plataforma|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Total grupo|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Redes Sociales|4|-|-|-|-|3|-|4|-|-|-|
-|Foros/Blogs|3|-|-|-|-|0|-|-|-|-|-|
-|Noticias|2|-|-|-|-|0|-|-|-|-|-|
-|Documentos|-|-|-|-|-|0|-|-|-|-|-|
-|Imágenes|-|-|-|-|-|0|-|1|-|-|-|
-|Otros|6|-|-|-|-|4|-|2|-|-|-|
+|Redes Sociales|4|-|-|-|1|3|-|4|-|-|-|
+|Foros/Blogs|3|-|-|-|0|0|-|-|-|-|-|
+|Noticias|2|-|-|-|0|0|-|-|-|-|-|
+|Documentos|-|-|-|-|4|0|-|-|-|-|-|
+|Imágenes|-|-|-|-|0|0|-|1|-|-|-|
+|Otros|6|-|-|-|2|4|-|2|-|-|-|
 
 </div>
 

@@ -45,9 +45,9 @@
 
 |Vulnerabilidad|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% Grupo|Riesgo medio|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Datos personales expuestos|-|-|-|-|-|0|-|-|-|-|-|-|
-|Información profesional|-|-|-|-|-|0|-|-|-|-|-|-|
-|Fotos personales|-|-|-|-|-|3|-|-|-|-|-|-|
+|Datos personales expuestos|2|-|-|-|-|0|-|-|-|-|-|-|
+|Información profesional|1|-|-|-|-|0|-|-|-|-|-|-|
+|Fotos personales|3|-|-|-|-|3|-|-|-|-|-|-|
 |Menciones en medios|-|-|-|-|-|0|-|-|-|-|-|-|
 |Documentos académicos|-|-|-|-|-|1|-|-|-|-|-|-|
 |Perfiles abandonados|-|-|-|-|-|0|-|0|-|-|-|-|

@@ -86,10 +86,10 @@
 ### Interacciones con IA
 | IA | Interacción | Privacidad |
 |---------------|---------------------|--------------------------|
-| **ChatGPT** | Consultas académicas y personales| No guardar datos en memoria |
-| **GitHub Copilot** | Desarrollo código | No existe |
-| **Deepseek** | Consultas académicas | No existe |
-| **Claude** | Consultas profesionales y personales | No guardar datos en memoria |
+| **ChatGPT** | Consultas académicas y personales| Guarda conversaciones |
+| **GitHub Copilot** | Desarrollo código | - |
+| **Deepseek** | Consultas académicas | Guarda conversaciones |
+| **Claude** | Consultas profesionales y personales | Guarda conversaciones |
 
 
 

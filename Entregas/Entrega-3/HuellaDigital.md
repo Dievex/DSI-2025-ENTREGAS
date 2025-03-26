@@ -1,6 +1,18 @@
 | [![](https://img.shields.io/badge/-Inicio-FFF?style=flat&logo=Emlakjet&logoColor=black)](/README.md) [![](https://img.shields.io/badge/-Entrega_2-FFF?style=flat&logo=openstreetmap&logoColor=black)](/Entregas/Entrega-2/ModeloDeNegocio.md)  [![](https://img.shields.io/badge/-Entrega_3-FFF?style=flat&logo=openstreetmap&logoColor=black)](/Entregas/Entrega-3/HuellaDigital.md)  [![](https://img.shields.io/badge/-Entrega_4-FFF?style=flat&logo=openstreetmap&logoColor=black)]()|
 |:-:|
 # Huella Digital
+|Alumno|Analisis Personal|
+|-|-|
+|Diego García|[Analisis personal](/Entregas/Entrega-3/garciaDiego.md)|
+|Carlos Alfonso|[Analisis personal](/Entregas/Entrega-3/alfonsoCarlos.md)|
+|Iker Celaya|[Analisis personal](/Entregas/Entrega-3/celayaIker.md)|
+|Sebastian Chmielowski|[Analisis personal](/Entregas/Entrega-3/chmielowskiSebastian.md)|
+|Cesar García|[Analisis personal](/Entregas/Entrega-3/garciaCesar.md)|
+|Valvanuz Obregón|[Analisis personal](/Entregas/Entrega-3/obregonValvanuz.md)|
+|Eduardo Olea|[Analisis personal](/Entregas/Entrega-3/oleaEduardo.md)|
+|Lucia Prieto|[Analisis personal](/Entregas/Entrega-3/prietoLucia.md)|
+|Daniel Puente|[Analisis personal](/Entregas/Entrega-3/puenteDaniel.md)|
+|Anette Torres|[Analisis personal](/Entregas/Entrega-3/torresAnette.md)|
 
 ### Notas para el análisis
 

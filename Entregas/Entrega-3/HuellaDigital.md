@@ -87,9 +87,9 @@
 |Categoría de impacto|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Impacto grupal|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |Personal|-|-|-|-|-|3|-|-|-|-|-|-|
-|Profesional|-|-|-|-|-|0|-|-|-|-|-|-|
+|Profesional|1|-|-|-|-|0|-|-|-|-|-|-|
 |Académico|-|-|-|-|-|1|-|-|-|-|-|-|
-|Social|-|-|-|-|-|0|-|-|-|-|-|-|
+|Social|3|-|-|-|-|0|-|-|-|-|-|-|
 
 </div>
 

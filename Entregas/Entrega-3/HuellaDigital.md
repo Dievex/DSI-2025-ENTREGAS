@@ -45,11 +45,11 @@
 
 |Vulnerabilidad|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% Grupo|Riesgo medio|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Datos personales expuestos|2|-|-|-|-|0|-|-|-|-|-|-|
-|Información profesional|1|-|-|-|-|0|-|-|-|-|-|-|
-|Fotos personales|3|-|-|-|-|3|-|-|-|-|-|-|
-|Menciones en medios|-|-|-|-|-|0|-|-|-|-|-|-|
-|Documentos académicos|-|-|-|-|-|1|-|-|-|-|-|-|
+|Datos personales expuestos|2|-|-|-|-|0|-|0|-|-|-|-|
+|Información profesional|1|-|-|-|-|0|-|1|-|-|-|-|
+|Fotos personales|3|-|-|-|-|3|-|1|-|-|-|-|
+|Menciones en medios|-|-|-|-|-|0|-|0||-|-|-|
+|Documentos académicos|-|-|-|-|-|1|-|0|-|-|-|-|
 |Perfiles abandonados|-|-|-|-|-|0|-|0|-|-|-|-|
 
 </div>
@@ -60,9 +60,9 @@
 
 |Tipo de control|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% Grupo|Riesgo promedio|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Total|3|-|-|-|-|4|-|-|-|-|-|-|-|
-|Parcial|-|-|-|-|-|0|-|-|-|-|-|-|-|
-|Nulo|12|-|-|-|-|3|-|-|-|-|-|-|-|
+|Total|3|-|-|-|-|4|-|5|-|-|-|-|-|
+|Parcial|-|-|-|-|-|0|-|0|-|-|-|-|-|
+|Nulo|12|-|-|-|-|3|-|2|-|-|-|-|-|
 
 </div>
 
@@ -86,9 +86,9 @@
 
 |Categoría de impacto|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Impacto grupal|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Personal|-|-|-|-|-|3|-|-|-|-|-|-|
-|Profesional|1|-|-|-|-|0|-|-|-|-|-|-|
-|Académico|-|-|-|-|-|1|-|-|-|-|-|-|
+|Personal|-|-|-|-|-|3|-|4|-|-|-|
+|Profesional|1|-|-|-|-|0|-|1|-|-|-|-|
+|Académico|-|-|-|-|-|1|-|0|-|-|-|-|
 |Social|3|-|-|-|-|0|-|-|-|-|-|-|
 
 </div>

@@ -8,13 +8,14 @@
 
 ## Análisis de plataformas
 
-### Redes Sociales Tradicionales
+### Redes Sociales
 | Plataforma   | Presencia | Usuario        | Observaciones |
 |--------------|-----------|----------------|---------------|
 | Facebook     | Si        | `Diego García Niño`| Apenas la uso para fines sociales|
 | Instagram    | Sí        | `@Diego30_02`  | - |
 | LinkedIn     | Sí        | `Diego García Niño`  | Cuenta profesional llevada al dia |
 | X            | Sí        | `@Diego30_02` | -             |
+| TikTok            | Sí        | `@diego_30_02` | -             |
 
 ### Plataformas Emergentes
 | Plataforma   | Presencia | Usuario     | Observaciones |
@@ -50,6 +51,7 @@
 
 3. **Posibles riesgos de vinculación**:
    - El username `Dievoxx_02` en Reddit cambia la letra `e` del usuario normal de Dievexx por una `o`
+   - El username `diego_30_02` en TikTok añade un `_`del usuario normal generico de `diego30_02`
 
 ### Conclusiones Plataformas
 - Suelo compartir nombres de usuario similares para mantener la simplicidad y recordar los inicios de sesión.
@@ -84,10 +86,10 @@
 ### Interacciones con IA
 | IA | Interacción | Privacidad |
 |---------------|---------------------|--------------------------|
-| **ChatGPT** | Consultas académicas y personales| No guardar datos en memoria |
-| **GitHub Copilot** | Desarrollo código | No existe |
-| **Deepseek** | Consultas académicas | No existe |
-| **Claude** | Consultas profesionales y personales | No guardar datos en memoria |
+| **ChatGPT** | Consultas académicas y personales| Guarda conversaciones |
+| **GitHub Copilot** | Desarrollo código | - |
+| **Deepseek** | Consultas académicas | Guarda conversaciones |
+| **Claude** | Consultas profesionales y personales | Guarda conversaciones |
 
 
 

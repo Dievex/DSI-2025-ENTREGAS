@@ -45,12 +45,12 @@
 
 |Vulnerabilidad|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% Grupo|Riesgo medio|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Datos personales expuestos|2|-|-|-|-|0|-|-|-|-|-|-|
-|Información profesional|1|-|-|-|-|0|-|-|-|-|-|-|
-|Fotos personales|3|-|-|-|-|3|-|-|-|-|-|-|
-|Menciones en medios|-|-|-|-|-|0|-|-|-|-|-|-|
-|Documentos académicos|-|-|-|-|-|1|-|-|-|-|-|-|
-|Perfiles abandonados|-|-|-|-|-|0|-|0|-|-|-|-|
+|Datos personales expuestos|2|-|-|-|0|0|-|-|-|-|-|-|
+|Información profesional|1|-|-|-|1|0|-|-|-|-|-|-|
+|Fotos personales|3|-|-|-|0|3|-|-|-|-|-|-|
+|Menciones en medios|-|-|-|-|0|0|-|-|-|-|-|-|
+|Documentos académicos|-|-|-|-|1|1|-|-|-|-|-|-|
+|Perfiles abandonados|-|-|-|-|0|0|-|0|-|-|-|-|
 
 </div>
 
@@ -60,9 +60,9 @@
 
 |Tipo de control|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% Grupo|Riesgo promedio|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Total|3|-|-|-|-|4|-|-|-|-|-|-|-|
-|Parcial|-|-|-|-|-|0|-|-|-|-|-|-|-|
-|Nulo|12|-|-|-|-|3|-|-|-|-|-|-|-|
+|Total|3|-|-|-|1|4|-|-|-|-|-|-|-|
+|Parcial|-|-|-|-|0|0|-|-|-|-|-|-|-|
+|Nulo|12|-|-|-|6|3|-|-|-|-|-|-|-|
 
 </div>
 
@@ -72,11 +72,11 @@
 
 |Exposición|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% grupal|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Total brechas|1|-|-|-|-|2|-|0|-|-|-|-|
-|Datos personales|1|-|-|-|-|0|-|0|-|-|-|-|
-|Contraseñas|1|-|-|-|-|0|-|0|-|-|-|-|
-|Emails|1|-|-|-|-|2|-|0|-|-|-|-|
-|Servicios críticos|-|-|-|-|-|0|-|0|-|-|-|-|
+|Total brechas|1|-|-|-|0|2|-|0|-|-|-|-|
+|Datos personales|1|-|-|-|0|0|-|0|-|-|-|-|
+|Contraseñas|1|-|-|-|0|0|-|0|-|-|-|-|
+|Emails|1|-|-|-|0|2|-|0|-|-|-|-|
+|Servicios críticos|-|-|-|-|0|0|-|0|-|-|-|-|
 
 </div>
 
@@ -87,9 +87,9 @@
 |Categoría de impacto|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Impacto grupal|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |Personal|-|-|-|-|-|3|-|-|-|-|-|-|
-|Profesional|1|-|-|-|-|0|-|-|-|-|-|-|
-|Académico|-|-|-|-|-|1|-|-|-|-|-|-|
-|Social|3|-|-|-|-|0|-|-|-|-|-|-|
+|Profesional|1|-|-|-|1|0|-|-|-|-|-|-|
+|Académico|-|-|-|-|1|1|-|-|-|-|-|-|
+|Social|3|-|-|-|3|0|-|-|-|-|-|-|
 
 </div>
 

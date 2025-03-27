@@ -26,7 +26,7 @@
 
 <div align=center>
 
-|Métrica|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Patrón grupal<br>(Media y desviación)|
+|Métrica|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|Patrón grupal<br>(Media y desviación)|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |Índice de exposición global|🟡|🟡|🟡|🟢|🔴|🟢|🟢|🟢|🟡|🟢|🟢 (60%), 🟡 (30%), 🔴 (10%)|
 |Nº total de hallazgos|15|7|7|13|7|7|12|7|12|3|9.0 ± 3.8|
@@ -40,7 +40,7 @@
 
 <div align=center>
 
-|Plataforma|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Total grupo|
+|Plataforma|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|Total grupo|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |Redes Sociales|4|4|6|6|1|3|6|4|6|3|43 (50.6%)|
 |Foros/Blogs|3|0|0|0|0|0|2|0|0|0|5 (5.9%)|
@@ -55,7 +55,7 @@
 
 <div align=center>
 
-|Vulnerabilidad|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% Grupo|Riesgo medio|
+|Vulnerabilidad|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|% Grupo|Riesgo medio|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Datos personales expuestos|2|0|0|0|0|0|0|0|0|3|20%|🟡|
 |Información profesional|1|0|0|0|1|0|0|1|0|1|40%|🟢|
@@ -70,7 +70,7 @@
 
 <div align=center>
 
-|Tipo de control|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% Grupo|Riesgo promedio|
+|Tipo de control|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|% Grupo|Riesgo promedio|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Total|3|1|2|3|1|4|4|5|5|3|34.2%|🟢|
 |Parcial|0|0|0|3|0|0|0|0|0|0|3.4%|🟢|
@@ -82,7 +82,7 @@
 
 <div align=center>
 
-|Exposición|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|% grupal|
+|Exposición|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|% grupal|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |Total brechas|1|0|2|1|0|2|0|0|0|1|70%|
 |Datos personales|1|0|1|1|0|0|0|0|0|0|30%|
@@ -96,7 +96,7 @@
 
 <div align=center>
 
-|Categoría de impacto|Diego García|Carlos Alfonso|Iker Celaya|Sebastian Chmielowski|Cesar García|Valvanuz Obregón|Eduardo Olea|Lucia Prieto|Daniel Puente|Anette Torres|Impacto grupal|
+|Categoría de impacto|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|Impacto grupal|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |Personal|0|0|0|1|0|3|0|4|1|3|40%|
 |Profesional|1|0|0|0|1|0|0|1|0|1|40%|

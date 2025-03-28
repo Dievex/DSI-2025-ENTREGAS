@@ -18,26 +18,50 @@ El análisis reveló un nivel de exposición digital moderado en el grupo, con u
 
 De acuerdo con nuestro análisis cuantitativo:
 
-- **Índice de exposición global**: Predominantemente bajo riesgo ([60%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)), con una porción significativa de riesgo moderado ([30%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)) y casos aislados de alto riesgo ([10%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)).
-- **Control sobre la huella digital**: Solo el [42.6%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro) de los hallazgos están bajo control total de los usuarios, mientras que un preocupante [58.8%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro) carece de cualquier tipo de control por parte del individuo.
-- **Plataformas con mayor presencia**: Las redes sociales constituyen el [50.6%](/Entregas/Entrega-3/HuellaDigital.md#distribución-por-plataformas) de la huella digital del grupo, seguidas por la categoría "otros" ([28.2%](/Entregas/Entrega-3/HuellaDigital.md#distribución-por-plataformas)) y documentos ([11.8%](/Entregas/Entrega-3/HuellaDigital.md#distribución-por-plataformas)).
 
-### Vulnerabilidades Clave Identificadas
+  ## Índice de Exposición Global
+| Nivel de Riesgo  | Porcentaje |
+|------------------|-----------|
+| Bajo            | [60%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)       |
+| Moderado        | [30%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)      |
+| Alto           | [10%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)      |
 
-1. **Perfiles abandonados ([50%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes))**: La mitad del grupo presenta perfiles en plataformas que ya no utiliza activamente, creando puntos de exposición no monitoreados.
+  ## Control sobre la Huella Digital
+| Estado del Control | Porcentaje |
+|--------------------|-----------|
+| Sin control del individuo     | [58.8%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro) |
+| Bajo control total del usuario | [42.6%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro) |
 
-2. **Exposición de fotos personales ([60%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes))**: Constituye la vulnerabilidad más común, con imágenes personales accesibles públicamente sin las debidas restricciones de privacidad.
 
-3. **Información profesional expuesta ([40%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes))**: Datos laborales y competencias profesionales están disponibles en diversas plataformas, potencialmente facilitando la ingeniería social.
+ ## Plataformas con Mayor Presencia
+| Plataforma       | Porcentaje |
+|-----------------|-----------|
+| Redes sociales  | [50.6%](/Entregas/Entrega-3/HuellaDigital.md#distribución-por-plataformas)     |
+| Otros          | [28.2%](/Entregas/Entrega-3/HuellaDigital.md#distribución-por-plataformas)    |
+| Documentos     | [11.8%](/Entregas/Entrega-3/HuellaDigital.md#distribución-por-plataformas)    |
 
-4. **Documentos académicos públicos ([40%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes))**: Trabajos, investigaciones y credenciales educativas son accesibles sin restricciones.
 
-5. **Brechas de seguridad**: El [70%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-brechas-de-datos-have-i-been-pwned) de los miembros ha estado involucrado en al menos una brecha de datos, con exposición de emails ([50%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-brechas-de-datos-have-i-been-pwned)) siendo la más común.
 
-### Análisis de Impacto
+### Matriz de Vulnerabilidades Comunes
 
-- **Impacto social ([50%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-impacto))**: La mitad del grupo enfrenta riesgos en su esfera social debido a su huella digital.
-- **Impacto personal, profesional y académico ([40%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-impacto))**: Estos tres ámbitos presentan un nivel similar de exposición al riesgo.
+| Vulnerabilidad                  | Porcentaje | Observaciones |
+|----------------------------------|-----------|--------------|
+| Brechas de seguridad            | [70%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-brechas-de-datos-have-i-been-pwned)      | Gran parte del grupo ha estado en filtraciones de datos, con la exposición de emails siendo la más común [50%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-brechas-de-datos-have-i-been-pwned). |
+| Exposición de fotos personales  | [60%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes)       | Imágenes personales accesibles públicamente sin restricciones de privacidad. |
+| Perfiles abandonados            | [50%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes)       | Cuentas en plataformas no utilizadas activamente representan riesgos de exposición no monitoreados. |
+| Información profesional expuesta| [40%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes)       | Datos laborales y competencias disponibles pueden facilitar ataques de ingeniería social. |
+| Documentos académicos públicos  | [40%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes)       | Trabajos e investigaciones accesibles sin restricciones pueden comprometer información sensible. |
+
+
+
+  ### Análisis de Impacto
+
+| Tipo de Impacto                              | Porcentaje | Observaciones |
+|----------------------------------------------|-----------|--------------|
+| Impacto social                               | [50%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-impacto)      | La mitad del grupo enfrenta riesgos en su esfera social debido a su huella digital. |
+| Impacto personal, profesional y académico   | [40%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-impacto)       | Estos tres ámbitos presentan un nivel similar de exposición al riesgo. |
+
+
 
 ## Debilidades y Patrones Compartidos
 

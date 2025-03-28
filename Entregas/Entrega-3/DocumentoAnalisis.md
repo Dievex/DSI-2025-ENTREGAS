@@ -18,7 +18,7 @@ El análisis reveló un nivel de exposición digital moderado en el grupo, con u
 
 De acuerdo con nuestro análisis cuantitativo:
 
-- **Índice de exposición global**: Predominantemente bajo riesgo ([60%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)), con una porción significativa de riesgo moderado ([30%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)) y casos aislados de alto riesgo ([10%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)).
+- **Índice de exposición global**: Predominantemente bajo riesgo ([50%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)), con una porción significativa de riesgo moderado ([40%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)) y casos aislados de alto riesgo ([10%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)).
 - **Control sobre la huella digital**: Solo el [42.6%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro) de los hallazgos están bajo control total de los usuarios, mientras que un preocupante [58.8%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro) carece de cualquier tipo de control por parte del individuo.
 - **Plataformas con mayor presencia**: Las redes sociales constituyen el [50.6%](/Entregas/Entrega-3/HuellaDigital.md#distribución-por-plataformas) de la huella digital del grupo, seguidas por la categoría "otros" ([28.2%](/Entregas/Entrega-3/HuellaDigital.md#distribución-por-plataformas)) y documentos ([11.8%](/Entregas/Entrega-3/HuellaDigital.md#distribución-por-plataformas)).
 

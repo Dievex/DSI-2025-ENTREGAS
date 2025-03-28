@@ -26,13 +26,13 @@
 
 <div align=center>
 
-|Métrica|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|Patrón grupal<br>(Media y desviación)|
+|Métrica|Patrón grupal<br>(Media y desviación)|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Índice de exposición global|🟡|🟡|🟡|🟢|🔴|🟢|🟢|🟢|🟡|🟢|🟢 (60%), 🟡 (30%), 🔴 (10%)|
-|Nº total de hallazgos|15|7|7|13|7|7|12|7|12|3|9.0 ± 3.8|
-|% hallazgos en control total|20%|14.3%|42.9%|23.1%|14.3%|57.1%|41.7%|71.4%|41.7%|100%|42.6% ± 28.1%|
+|Índice de exposición global|🟢 (60%), 🟡 (30%), 🔴 (10%)|🟡|🟡|🟡|🟢|🔴|🟢|🟢|🟢|🟡|🟢|
+|Nº total de hallazgos|9.0 ± 3.8|15|7|7|13|7|7|12|7|12|3|
+|% hallazgos en control total|42.6% ± 28.1%|20%|14.3%|42.9%|23.1%|14.3%|57.1%|41.7%|71.4%|41.7%|100%|
 |% hallazgos en control parcial|0%|0%|0%|0%|0%|0%|0%|0%|0%|0%|0%|
-|% hallazgos sin control|80%|85.7%|71.4%|76.9%|85.7%|42.9%|58.3%|28.6%|58.3%|0%|58.8% ± 28.1%|
+|% hallazgos sin control|58.8% ± 28.1%|80%|85.7%|71.4%|76.9%|85.7%|42.9%|58.3%|28.6%|58.3%|0%|
 
 </div>
 
@@ -40,14 +40,14 @@
 
 <div align=center>
 
-|Plataforma|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|Total grupo|
+|Plataforma|Total grupo|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Redes Sociales|4|4|6|6|1|3|6|4|6|3|43 (50.6%)|
-|Foros/Blogs|3|0|0|0|0|0|2|0|0|0|5 (5.9%)|
-|Noticias|2|1|0|1|0|0|0|0|0|0|4 (4.7%)|
-|Documentos|0|0|1|0|4|0|3|0|2|0|10 (11.8%)|
-|Imágenes|0|0|0|1|0|0|0|1|0|0|2 (2.4%)|
-|Otros|6|0|0|5|2|4|1|2|4|0|24 (28.2%)|
+|Redes Sociales|43 (50.6%)|4|4|6|6|1|3|6|4|6|3|
+|Foros/Blogs|5 (5.9%)|3|0|0|0|0|0|2|0|0|0|
+|Noticias|4 (4.7%)|2|1|0|1|0|0|0|0|0|0|
+|Documentos|10 (11.8%)|0|0|1|0|4|0|3|0|2|0|
+|Imágenes|2 (2.4%)|0|0|0|1|0|0|0|1|0|0|
+|Otros|24 (28.2%)|6|0|0|5|2|4|1|2|4|0|
 
 </div>
 
@@ -55,14 +55,14 @@
 
 <div align=center>
 
-|Vulnerabilidad|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|% Grupo|Riesgo medio|
+|Vulnerabilidad|% Grupo|Riesgo medio|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Datos personales expuestos|2|0|0|0|0|0|0|0|0|3|20%|🟡|
-|Información profesional|1|0|0|0|1|0|0|1|0|1|40%|🟢|
-|Fotos personales|3|0|1|1|0|3|0|1|0|2|60%|🟡|
-|Menciones en medios|0|0|0|0|0|0|0|0|0|0|0%|🟢|
-|Documentos académicos|0|0|0|0|1|1|0|0|1|1|40%|🟢|
-|Perfiles abandonados|0|2|1|1|0|0|0|0|1|0|50%|🟡|
+|Datos personales expuestos|20%|🟡|2|0|0|0|0|0|0|0|0|3|
+|Información profesional|40%|🟢|1|0|0|0|1|0|0|1|0|1|
+|Fotos personales|60%|🟡|3|0|1|1|0|3|0|1|0|2|
+|Menciones en medios|0%|🟢|0|0|0|0|0|0|0|0|0|0|
+|Documentos académicos|40%|🟢|0|0|0|0|1|1|0|0|1|1|
+|Perfiles abandonados|50%|🟡|0|2|1|1|0|0|0|0|1|0|
 
 </div>
 
@@ -70,11 +70,11 @@
 
 <div align=center>
 
-|Tipo de control|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|% Grupo|Riesgo promedio|
+|Tipo de control|% Grupo|Riesgo promedio|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Total|3|1|2|3|1|4|4|5|5|3|34.2%|🟢|
-|Parcial|0|0|0|3|0|0|0|0|0|0|3.4%|🟢|
-|Nulo|12|6|5|10|6|3|7|2|7|0|62.4%|🔴|
+|Total|34.2%|🟢|3|1|2|3|1|4|4|5|5|3|
+|Parcial|3.4%|🟢|0|0|0|3|0|0|0|0|0|0|
+|Nulo|62.4%|🔴|12|6|5|10|6|3|7|2|7|0|
 
 </div>
 
@@ -82,13 +82,13 @@
 
 <div align=center>
 
-|Exposición|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|% grupal|
+|Exposición|% grupal|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Total brechas|1|0|2|1|0|2|0|0|0|1|70%|
-|Datos personales|1|0|1|1|0|0|0|0|0|0|30%|
-|Contraseñas|1|0|4|1|0|0|0|0|0|0|30%|
-|Emails|1|0|1|1|0|2|0|0|0|1|50%|
-|Servicios críticos|0|0|1|0|0|0|0|0|0|0|10%|
+|Total brechas|70%|1|0|2|1|0|2|0|0|0|1|
+|Datos personales|30%|1|0|1|1|0|0|0|0|0|0|
+|Contraseñas|30%|1|0|4|1|0|0|0|0|0|0|
+|Emails|50%|1|0|1|1|0|2|0|0|0|1|
+|Servicios críticos|10%|0|0|1|0|0|0|0|0|0|0|
 
 </div>
 
@@ -96,12 +96,12 @@
 
 <div align=center>
 
-|Categoría de impacto|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|Impacto grupal|
+|Categoría de impacto|Impacto grupal|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Personal|0|0|0|1|0|3|0|4|1|3|40%|
-|Profesional|1|0|0|0|1|0|0|1|0|1|40%|
-|Académico|0|0|0|0|1|1|0|0|1|1|40%|
-|Social|3|0|0|0|3|0|5|0|4|2|50%|
+|Personal|40%|0|0|0|1|0|3|0|4|1|3|
+|Profesional|40%|1|0|0|0|1|0|0|1|0|1|
+|Académico|40%|0|0|0|0|1|1|0|0|1|1|
+|Social|50%|3|0|0|0|3|0|5|0|4|2|
 
 </div>
 

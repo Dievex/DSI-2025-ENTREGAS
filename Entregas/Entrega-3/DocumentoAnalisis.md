@@ -19,21 +19,21 @@ El análisis reveló un nivel de exposición digital moderado en el grupo, con u
 De acuerdo con nuestro análisis cuantitativo:
 
 
-  ## Índice de Exposición Global
+  ### Índice de Exposición Global
 | Nivel de Riesgo  | Porcentaje |
 |------------------|-----------|
 | Bajo            | [60%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)       |
 | Moderado        | [30%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)      |
 | Alto           | [10%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)      |
 
-  ## Control sobre la Huella Digital
+  ### Control sobre la Huella Digital
 | Estado del Control | Porcentaje |
 |--------------------|-----------|
 | Sin control del individuo     | [58.8%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro) |
 | Bajo control total del usuario | [42.6%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro) |
 
 
- ## Plataformas con Mayor Presencia
+ ### Plataformas con Mayor Presencia
 | Plataforma       | Porcentaje |
 |-----------------|-----------|
 | Redes sociales  | [50.6%](/Entregas/Entrega-3/HuellaDigital.md#distribución-por-plataformas)     |
@@ -42,7 +42,7 @@ De acuerdo con nuestro análisis cuantitativo:
 
 
 
-### Matriz de Vulnerabilidades Comunes
+## Matriz de Vulnerabilidades Comunes
 
 | Vulnerabilidad                  | Porcentaje | Observaciones |
 |----------------------------------|-----------|--------------|
@@ -54,7 +54,7 @@ De acuerdo con nuestro análisis cuantitativo:
 
 
 
-  ### Análisis de Impacto
+  ## Análisis de Impacto
 
 | Tipo de Impacto                              | Porcentaje | Observaciones |
 |----------------------------------------------|-----------|--------------|
@@ -66,89 +66,37 @@ De acuerdo con nuestro análisis cuantitativo:
 ## Debilidades y Patrones Compartidos
 
 ### Gestión de Control Digital
+### Gestión y Privacidad Digital
 
-El hallazgo más preocupante es que el [62.4%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-control) de toda la huella digital identificada está completamente fuera del control de los miembros. Esto significa que más de la mitad de la información personal o profesional encontrada en línea es gestionada por terceros o existe en plataformas donde los individuos no pueden ejercer control efectivo sobre su visibilidad o permanencia.
+| Aspecto                          | Porcentaje / Descripción | Observaciones |
+|----------------------------------|-------------------------|--------------|
+| Gestión de Control Digital      | [62.4%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-control)  | Más de la mitad de la información personal o profesional es gestionada por terceros, sin posibilidad de control efectivo. |
+| Interconexión de Perfiles       | No aplica               | Uso de datos consistentes entre plataformas facilita la correlación de identidades en distintos servicios. |
+| Conciencia Sobre Privacidad     | Rango: 15% - 100%       | Gran disparidad en prácticas de privacidad, desde control total hasta mínima gestión de la presencia digital. |
 
-### Interconexión de Perfiles
-
-Se detectó que la mayoría de los miembros utiliza información consistente entre plataformas (nombres de usuario similares, mismas fotos de perfil, referencias cruzadas), facilitando la correlación de identidades a través de diferentes servicios.
-
-### Conciencia Sobre Privacidad
-
-Existe una disparidad significativa en las prácticas de privacidad entre los miembros, con algunos ejerciendo un control riguroso (hasta 100% de control en un caso) mientras otros apenas gestionan su presencia digital (menos del 15% bajo control).
 
 ## Recomendaciones y Estrategias de Mitigación
 
-### 1. Auditoría Digital Periódica
+| Estrategia                              | Objetivo                                              | Acciones Recomendadas |
+|-----------------------------------------|------------------------------------------------------|-----------------------|
+| **Auditoría Digital Periódica**         | Mantener visibilidad y control sobre la huella digital. | - Revisiones trimestrales con EgoSurfing. <br> - Crear alertas de Google para el nombre. <br> - Verificar exposición en Have I Been Pwned. |
+| **Limpieza de Perfiles Abandonados**    | Reducir superficie de exposición innecesaria.        | - Identificar y catalogar perfiles antiguos. <br> - Priorizar eliminación según sensibilidad. <br> - Despersonalizar perfiles no eliminables. |
+| **Gestión Unificada de Permisos**       | Controlar el acceso a información personal.          | - Auditar permisos en aplicaciones y servicios web. <br> - Revocar accesos innecesarios. <br> - Implementar revisiones bimestrales. |
+| **Estratificación de Identidad Digital** | Minimizar correlaciones entre perfiles.              | - Separar perfiles personales y profesionales. <br> - Usar nombres de usuario distintos por contexto. <br> - Utilizar servicios de enmascaramiento de email. |
+| **Gestión Activa de Configuraciones de Privacidad** | Maximizar control sobre información compartida. | - Ajustar configuraciones de privacidad en plataformas activas. <br> - Desactivar indexación pública. <br> - Configurar revisiones antes de ser etiquetado. |
+| **Educación Continua en Privacidad Digital** | Desarrollar competencias de gestión de privacidad. | - Sesiones mensuales de actualización en privacidad digital. <br> - Repositorio compartido de recursos. <br> - Alertas sobre cambios en políticas de privacidad. |
 
-**Objetivo**: Mantener visibilidad y control sobre la huella digital.
 
-**Acciones recomendadas**:
-- Implementar revisiones trimestrales de presencia digital mediante EgoSurfing en múltiples motores de búsqueda.
-- Crear alertas de Google para el propio nombre y variaciones comunes.
-- Verificar regularmente la exposición en Have I Been Pwned.
-
-### 2. Limpieza de Perfiles Abandonados
-
-**Objetivo**: Reducir superficie de exposición innecesaria.
-
-**Acciones recomendadas**:
-- Identificar y catalogar todos los perfiles creados históricamente.
-- Priorizar eliminación según sensibilidad de la información contenida.
-- Para plataformas que no permiten eliminación completa, despersonalizar al máximo (eliminar fotos, datos personales, etc.).
-
-### 3. Gestión Unificada de Permisos
-
-**Objetivo**: Controlar el acceso a información personal por aplicaciones y servicios.
-
-**Acciones recomendadas**:
-- Auditar permisos concedidos a aplicaciones en dispositivos móviles y servicios web.
-- Revocar accesos innecesarios o excesivos.
-- Implementar revisiones de permisos bimestrales.
-
-### 4. Estratificación de Identidad Digital
-
-**Objetivo**: Compartimentar la presencia en línea para minimizar correlaciones.
-
-**Acciones recomendadas**:
-- Separar perfiles personales y profesionales utilizando diferentes correos electrónicos.
-- Utilizar nombres de usuario distintos para diferentes contextos (personal, profesional, ocio).
-- Considerar el uso de servicios de enmascaramiento de email para registros en plataformas no críticas.
-
-### 5. Gestión Activa de Configuraciones de Privacidad
-
-**Objetivo**: Maximizar control sobre información compartida.
-
-**Acciones recomendadas**:
-- Revisar y ajustar configuraciones de privacidad en todas las plataformas activas.
-- Desactivar opciones de indexación pública donde sea posible.
-- Configurar revisiones antes de ser etiquetado en publicaciones de terceros.
-
-### 6. Educación Continua en Privacidad Digital
-
-**Objetivo**: Desarrollar competencias de gestión de privacidad.
-
-**Acciones recomendadas**:
-- Establecer sesiones mensuales de actualización sobre tendencias en privacidad digital.
-- Crear repositorio compartido de recursos sobre protección de identidad digital.
-- Implementar sistema de alertas sobre cambios significativos en políticas de privacidad de plataformas populares.
 
 ## Plan de Implementación
 
-### Fase 1: Evaluación y Contención (1-2 semanas)
-- Auditoría completa de presencia digital para cada miembro.
-- Identificación y priorización de riesgos inmediatos.
-- Limpieza de perfiles abandonados de alto riesgo.
+| Fase                                   | Duración        | Acciones Clave |
+|----------------------------------------|----------------|---------------|
+| **Fase 1: Evaluación y Contención**   | 1-2 semanas    | - Auditoría completa de presencia digital. <br> - Identificación y priorización de riesgos inmediatos. <br> - Limpieza de perfiles abandonados de alto riesgo. |
+| **Fase 2: Reestructuración**          | 3-4 semanas    | - Implementación de segmentación de identidad digital. <br> - Ajuste de configuraciones de privacidad. <br> - Desarrollo de protocolos personales de gestión de privacidad. |
+| **Fase 3: Monitorización y Mejora Continua** | Permanente | - Establecimiento de calendario de revisiones periódicas. <br> - Implementación de sistema de alertas. <br> - Actualización continua sobre privacidad digital. |
 
-### Fase 2: Reestructuración (3-4 semanas)
-- Implementación de estrategias de segmentación de identidad digital.
-- Ajuste de configuraciones de privacidad en todas las plataformas.
-- Desarrollo de protocolos personales de gestión de privacidad.
 
-### Fase 3: Monitorización y Mejora Continua (permanente)
-- Establecimiento de calendario de revisiones periódicas.
-- Implementación de sistema de alertas.
-- Actualización continua de conocimientos sobre privacidad digital.
 
 ## Conclusiones
 

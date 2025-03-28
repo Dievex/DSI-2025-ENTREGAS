@@ -30,8 +30,8 @@ De acuerdo con nuestro análisis cuantitativo:
 | Exposición de fotos personales | [60%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes) | Vulnerabilidad más común, con imágenes personales accesibles públicamente sin restricciones de privacidad |
 | Información profesional expuesta | [40%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes) | Datos laborales y competencias profesionales disponibles en diversas plataformas, facilitando potencial ingeniería social |
 | Documentos académicos públicos | [40%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes) | Trabajos, investigaciones y credenciales educativas accesibles sin restricciones |
-| Brechas de seguridad | [70%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-brechas-de-datos-have-i-been-pwned) | Miembros involucrados en al menos una brecha de datos |
-| Exposición de emails | [50%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-brechas-de-datos-have-i-been-pwned) | Tipo más común de información expuesta en brechas de datos |
+| Brechas de seguridad | [70%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-brechas-de-datos) | Miembros involucrados en al menos una brecha de datos |
+| Exposición de emails | [50%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-brechas-de-datos) | Tipo más común de información expuesta en brechas de datos |
 
 ### Análisis de Impacto
 

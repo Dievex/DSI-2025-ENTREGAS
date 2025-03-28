@@ -4,7 +4,7 @@
 # Análisis de Resultados y Recomendaciones: Huella Digital
 
 ## [Analisis Grupal](/Entregas/Entrega-3/HuellaDigital.md)
-## [Presentación](https://github.com/Dievex/DSI-2025-ENTREGAS/blob/main/Documentos/PDFs/Entrega%203/HUELLA%20DIGITAL.pdf)
+## [Presentación](https://github.com/Dievex/DSI-2025-ENTREGAS/blob/main/Documentos/PDFs/Entrega%203/HUELLA%20DIGITAL%20.pdf)
 
 ## Resumen Ejecutivo
 
@@ -18,12 +18,11 @@ El análisis reveló un nivel de exposición digital moderado en el grupo, con u
 
 De acuerdo con nuestro análisis cuantitativo:
 
-
   ### Índice de Exposición Global
 | Nivel de Riesgo  | Porcentaje |
 |------------------|-----------|
-| Bajo            | [60%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)       |
-| Moderado        | [30%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)      |
+| Bajo            | [50%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)       |
+| Moderado        | [40%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)      |
 | Alto           | [10%](/Entregas/Entrega-3/HuellaDigital.md#resumen-cuantitativo-por-miembro)      |
 
   ### Control sobre la Huella Digital
@@ -41,6 +40,14 @@ De acuerdo con nuestro análisis cuantitativo:
 | Documentos     | [11.8%](/Entregas/Entrega-3/HuellaDigital.md#distribución-por-plataformas)    |
 
 
+| Tipo de Vulnerabilidad | Porcentaje Afectado | Observaciones |
+|------------------------|---------------------|---------------|
+| Perfiles abandonados | [50%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes) | Puntos de exposición no monitoreados en plataformas que ya no se utilizan activamente |
+| Exposición de fotos personales | [60%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes) | Vulnerabilidad más común, con imágenes personales accesibles públicamente sin restricciones de privacidad |
+| Información profesional expuesta | [40%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes) | Datos laborales y competencias profesionales disponibles en diversas plataformas, facilitando potencial ingeniería social |
+| Documentos académicos públicos | [40%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes) | Trabajos, investigaciones y credenciales educativas accesibles sin restricciones |
+| Brechas de seguridad | [70%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-brechas-de-datos) | Miembros involucrados en al menos una brecha de datos |
+| Exposición de emails | [50%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-brechas-de-datos) | Tipo más común de información expuesta en brechas de datos |
 
 ## Matriz de Vulnerabilidades Comunes
 

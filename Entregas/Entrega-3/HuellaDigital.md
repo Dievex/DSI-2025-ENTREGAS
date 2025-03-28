@@ -28,7 +28,7 @@
 
 |Métrica|Miembro 1|Miembro 2|Miembro 3|Miembro 4|Miembro 5|Miembro 6|Miembro 7|Miembro 8|Miembro 9|Miembro 10|Patrón grupal<br>(Media y desviación)|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Índice de exposición global|🟡|🟡|🟡|🟢|🔴|🟢|🟢|🟢|🟡|🟢|🟢 (60%), 🟡 (30%), 🔴 (10%)|
+|Índice de exposición global|🟡|🟡|🟡|🟢|🔴|🟢|🟢|🟢|🟡|🟢|🟢 (50%), 🟡 (40%), 🔴 (10%)|
 |Nº total de hallazgos|15|7|7|13|7|7|12|7|12|3|9.0 ± 3.8|
 |% hallazgos en control total|20%|14.3%|42.9%|23.1%|14.3%|57.1%|41.7%|71.4%|41.7%|100%|42.6% ± 28.1%|
 |% hallazgos en control parcial|0%|0%|0%|0%|0%|0%|0%|0%|0%|0%|0%|

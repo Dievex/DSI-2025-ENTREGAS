@@ -4,7 +4,7 @@
 # Análisis de Resultados y Recomendaciones: Huella Digital
 
 ## [Analisis Grupal](/Entregas/Entrega-3/HuellaDigital.md)
-## [Presentación](https://github.com/Dievex/DSI-2025-ENTREGAS/blob/main/Documentos/PDFs/Entrega%203/HUELLA%20DIGITAL.pdf)
+## [Presentación](https://github.com/Dievex/DSI-2025-ENTREGAS/blob/main/Documentos/PDFs/Entrega%203/HUELLA%20DIGITAL%20.pdf)
 
 ## Resumen Ejecutivo
 

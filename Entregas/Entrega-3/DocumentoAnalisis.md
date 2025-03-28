@@ -24,16 +24,14 @@ De acuerdo con nuestro análisis cuantitativo:
 
 ### Vulnerabilidades Clave Identificadas
 
-1. **Perfiles abandonados ([50%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes))**: La mitad del grupo presenta perfiles en plataformas que ya no utiliza activamente, creando puntos de exposición no monitoreados.
-
-2. **Exposición de fotos personales ([60%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes))**: Constituye la vulnerabilidad más común, con imágenes personales accesibles públicamente sin las debidas restricciones de privacidad.
-
-3. **Información profesional expuesta ([40%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes))**: Datos laborales y competencias profesionales están disponibles en diversas plataformas, potencialmente facilitando la ingeniería social.
-
-4. **Documentos académicos públicos ([40%](/Entregas/Entrega-3/HuellaDigital.md#matriz-de-vulnerabilidades-comunes))**: Trabajos, investigaciones y credenciales educativas son accesibles sin restricciones.
-
-5. **Brechas de seguridad**: El [70%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-brechas-de-datos-have-i-been-pwned) de los miembros ha estado involucrado en al menos una brecha de datos, con exposición de emails ([50%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-brechas-de-datos-have-i-been-pwned)) siendo la más común.
-
+| Tipo de Vulnerabilidad | Porcentaje Afectado | Observaciones |
+|------------------------|---------------------|---------------|
+| Perfiles abandonados | 50% | Puntos de exposición no monitoreados en plataformas que ya no se utilizan activamente |
+| Exposición de fotos personales | 60% | Vulnerabilidad más común, con imágenes personales accesibles públicamente sin restricciones de privacidad |
+| Información profesional expuesta | 40% | Datos laborales y competencias profesionales disponibles en diversas plataformas, facilitando potencial ingeniería social |
+| Documentos académicos públicos | 40% | Trabajos, investigaciones y credenciales educativas accesibles sin restricciones |
+| Brechas de seguridad | 70% | Miembros involucrados en al menos una brecha de datos |
+| Exposición de emails | 50% | Tipo más común de información expuesta en brechas de datos |
 ### Análisis de Impacto
 
 - **Impacto social ([50%](/Entregas/Entrega-3/HuellaDigital.md#análisis-de-impacto))**: La mitad del grupo enfrenta riesgos en su esfera social debido a su huella digital.

@@ -1,82 +1,62 @@
-# Entrega 4 APP de formulario
-Somos una empresa dedicada a la fabricación de piezas de distintos automóviles y hemos decidido crear un formulario para que respondan nuestros empleados, de todos los departamentos, y así poder analizar los distintos puntos de vista de nuestros empleados acerca de nuestros objetivos, actividades, la oferta y demanda en la que trabajamos..; y así poder ver si estamos yendo por buen camino o necesitamos cambiar nuestro enfoque, además de poder realizar cambios y/o modificaciones en nuestro trabajo cotidiano. No solo somos una empresa manufacturera sino que también nos preocupamos por el bienestar de nuestros empleados y clientes, fomentando la cooperación, colaboración e implantación de valores mediante actividades y encuentros informales.
+| [![](https://img.shields.io/badge/-Inicio-FFF?style=flat&logo=Emlakjet&logoColor=black)](/README.md) [![](https://img.shields.io/badge/-Entrega_2-FFF?style=flat&logo=openstreetmap&logoColor=black)](/Entregas/Entrega-2/ModeloDeNegocio.md)  [![](https://img.shields.io/badge/-Entrega_3-FFF?style=flat&logo=openstreetmap&logoColor=black)](/Entregas/Entrega-3/DocumentoAnalisis.md)  [![](https://img.shields.io/badge/-Entrega_4-FFF?style=flat&logo=openstreetmap&logoColor=black)]()|
+|:-:|
 
-El objetivo es conocer su perspectiva sobre la empresa, sus objetivos, actividades, oferta y demanda, y posibles áreas de mejora:
+# 📄 Entrega 4 - Formulario De Evaluación Interna App
 
-Formulario de Evaluación Interna → Opinión personal.
-Instrucciones: Marca la opción que mejor refleje tu opinión o percepción.
-Será totalmente anónima.
+## 🏭 Acerca de la empresa
 
-1. ¿Consideras que los objetivos generales de la empresa están claramente definidos y son conocidos por todos los empleados?
+Somos una empresa dedicada a la fabricación de piezas para automóviles. No solo nos enfocamos en la producción, sino también en el bienestar de nuestros empleados y clientes. Fomentamos un ambiente de cooperación, colaboración y mejora continua mediante encuentros informales y actividades internas.
 
-a) Sí, completamente claros y compartidos.
-b) Más o menos, se comentan pero no están del todo claros.
-c) Poco claros, no sé bien cuáles son.
-d) No tengo idea de cuáles son.
+---
 
-2. ¿Crees que las actividades que realizamos en la empresa guardan relación con los objetivos que buscamos?
+## ✅ Instrucciones
 
-a) Totalmente de acuerdo.
-b) Parcialmente.
-c) No mucho, noto cierta contradicción.
-d) Para nada.
-
-3. ¿Consideras que la empresa responde adecuadamente a los cambios en la demanda del mercado?
-
-a) Sí, nos sabemos adaptar.
-b) A veces.
-c) Nos cuesta seguir el ritmo.
-d) No acertamos los cambios de la demanda, ni nos adaptamos a ellos.
-
-4. ¿Cómo valoras el nivel de innovación en los procesos de producción actuales?
-
-a) Muy alto, estamos en constante mejora.
-b) Aceptable, se hacen cambios cada tanto.
-c) Bajo, falta innovación.
-d) Nulo, seguimos trabajando como hace años.
+1. Marca la opción que mejor refleje tu opinión.
+2. Tu participación será **totalmente anónima** y tu aporte nos ayudará a mejorar como organización.
 
 
+---
 
-5. ¿Consideras que deberíamos optar por añadir a nuestro proceso alguna de estas opciones? 
+## 📋 Formulario 
 
-a) Mayor automatización.
-b) Mejoras en las necesidades de clientes, para anticipar demanda.
-c) Capacitaciones internas dentro de los departamentos.
-d) Ninguna.
+| Pregunta | Opciones |
+|---------|----------|
+| **1. ¿Consideras que los objetivos generales de la empresa están claramente definidos y son conocidos por todos los empleados?** | a) Completamente claros y compartidos<br>b) Se comentan, pero no del todo claros<br>c) Poco claros<br>d) No tengo idea |
+| **2. ¿Crees que las actividades que realizamos guardan relación con los objetivos que buscamos?** | a) Totalmente de acuerdo<br>b) Parcialmente<br>c) No mucho<br>d) Para nada |
+| **3. ¿Consideras que respondemos adecuadamente a los cambios en la demanda del mercado?** | a) Sí, nos adaptamos<br>b) A veces<br>c) Nos cuesta<br>d) No acertamos ni nos adaptamos |
+| **4. ¿Cómo valoras el nivel de innovación en nuestros procesos?** | a) Muy alto<br>b) Aceptable<br>c) Bajo<br>d) Nulo |
+| **5. ¿Qué mejora deberíamos incorporar al proceso?** | a) Mayor automatización<br>b) Mejor anticipación de demanda<br>c) Capacitaciones internas<br>d) Ninguna |
+| **6. ¿Deberíamos reconsiderar nuestro enfoque de objetivos y métodos?** | a) Sí, cambio profundo<br>b) Tal vez, revisar algunas áreas<br>c) No, el enfoque es correcto<br>d) No tengo suficiente información |
+| **7. ¿Deberíamos cambiar el orden de la cadena de montaje o añadir pasos intermedios?** | a) No hay otra forma<br>b) Así está bien<br>c) Podríamos considerar pasos<br>d) Deberíamos considerar un cambio completo |
+| **8. ¿Tienes oportunidades de crecimiento profesional aquí?** | a) Totalmente de acuerdo<br>b) Parcialmente de acuerdo<br>c) Parcialmente en desacuerdo<br>d) Totalmente en desacuerdo |
+| **9. ¿Sirven las actividades del equipo para mejorar el ambiente laboral?** | a) Sí, completamente<br>b) En algunos casos<br>c) Podrían mejorar<br>d) No sirven |
+| **10. ¿Te sientes motivado y valorado en tu trabajo diario?** | a) Sí, completamente<br>b) Podría mejorar<br>c) Falta reconocimiento<br>d) No, en absoluto |
 
-  6.  ¿Crees que la empresa debería reconsiderar su enfoque actual en cuanto a                                                                                                                                        objetivos y métodos de trabajo?
+---
 
-a) Sí, es necesario un cambio profundo.
-b) Tal vez, sería bueno revisar algunas áreas.
-c) No, el enfoque actual es correcto.
-d) No tengo suficiente información para opinar.
+## 🎯 Objetivo y Justificación del formulario
 
-7. ¿ Consideras que deberíamos cambiar el orden de nuestra cadena de montaje, o añadir pasos intermedios?
+Este formulario está dirigido a todos los empleados de todos los departamentos. Su objetivo es conocer tu opinión sobre los **objetivos de la empresa, las actividades diarias, la respuesta al mercado, posibles mejoras y el ambiente laboral**.
 
-a) No hay otra forma.
-b) Considero que así está bien.
-c) Podríamos considerar pasos intermedios.
-d) Deberíamos considerar un cambio completo.
+Las preguntas han sido diseñadas para evaluar:
 
-8. ¿ Consideras que tienes oportunidad de tener un crecimiento profesional de tu carrera en nuestra empresa?
+- Si los objetivos de la empresa son claros y compartidos
+- Si lo que hacemos diariamente está alineado con esos objetivos
+- Cómo respondemos ante los cambios del mercado
+- El nivel de innovación en nuestros procesos
+- Ideas de mejora en producción, organización y capacitación
+- Si es momento de revisar nuestro enfoque actual
+- Opiniones sobre el orden y eficiencia de nuestra cadena de montaje
+- Oportunidades de crecimiento profesional dentro de la empresa
+- Impacto de las actividades internas en el ambiente laboral
+- Tu motivación y percepción de reconocimiento en el día a día
+- **Crecimiento profesional**: Entender si los empleados ven posibilidades de desarrollarse aquí.
+- **Clima laboral**: Evaluar si las actividades internas realmente impactan positivamente.
+- **Motivación y reconocimiento**: Detectar cómo se sienten los empleados en el día a día.
 
-a) Totalmente de acuerdo.
-b) Parcialmente de acuerdo.
-c) Parcialmente en desacuerdo.
-d) Totalmente en desacuerdo.
+Estas preguntas nos permitirán detectar fortalezas, debilidades y oportunidades de mejora.
 
-9. ¿Sirven las actividades que organiza el equipo para crear mejor ambiente laboral?
 
-a) Sí, sirven completamente.
-b) En algunos casos.
-c) Podrían mejorarse.
-d) No, no sirven.
 
-10. ¿ Te sientes motivado y valorado en tu trabajo diario?
-
-a) Sí, completamente.
-b) Podría mejorar.
-c) Falta más reconocimiento y valoración del desempeño.
-d) No, en absoluto.
 
  

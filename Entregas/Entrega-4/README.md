@@ -9,6 +9,18 @@ Somos una empresa dedicada a la fabricación de piezas para automóviles. No sol
 
 ---
 
+## 🛠️ Tecnologías Utilizadas
+
+Este proyecto fue desarrollado utilizando las siguientes herramientas.
+
+| Tecnología     | Descripción |
+|----------------|-------------|
+| 🚀 **FlutterFlow** | Herramienta NoCode |
+| 🗄️ **Supabase**     | Base de Datos (PostgreSQL)  |
+| 📄 **CSV**           | Para la exportación de datos.|
+
+---
+
 ## ✅ Instrucciones
 
 1. Marca la opción que mejor refleje tu opinión.
@@ -34,29 +46,30 @@ Somos una empresa dedicada a la fabricación de piezas para automóviles. No sol
 
 ---
 
-## 🎯 Objetivo y Justificación del formulario
+## 🎯 Objetivo y Justificación del Formulario
 
-Este formulario está dirigido a todos los empleados de todos los departamentos. Su objetivo es conocer tu opinión sobre los **objetivos de la empresa, las actividades diarias, la respuesta al mercado, posibles mejoras y el ambiente laboral**.
+Este formulario está pensado para conocer la opinión de todos los empleados sobre:
 
-Las preguntas han sido diseñadas para evaluar:
+- Los objetivos y actividades de la empresa  
+- Nuestra capacidad de adaptación e innovación  
+- El ambiente laboral y la motivación diaria  
+- Oportunidades de mejora y crecimiento profesional
 
-- Si los objetivos de la empresa son claros y compartidos
-- Si lo que hacemos diariamente está alineado con esos objetivos
-- Cómo respondemos ante los cambios del mercado
-- El nivel de innovación en nuestros procesos
-- Ideas de mejora en producción, organización y capacitación
-- Si es momento de revisar nuestro enfoque actual
-- Opiniones sobre el orden y eficiencia de nuestra cadena de montaje
-- Oportunidades de crecimiento profesional dentro de la empresa
-- Impacto de las actividades internas en el ambiente laboral
-- Tu motivación y percepción de reconocimiento en el día a día
-- **Crecimiento profesional**: Entender si los empleados ven posibilidades de desarrollarse aquí.
-- **Clima laboral**: Evaluar si las actividades internas realmente impactan positivamente.
-- **Motivación y reconocimiento**: Detectar cómo se sienten los empleados en el día a día.
-
-Estas preguntas nos permitirán detectar fortalezas, debilidades y oportunidades de mejora.
+Las preguntas nos ayudan a detectar fortalezas, debilidades y áreas donde podemos mejorar juntos.
 
 
+---
 
+
+## 👥 Reparto de Tareas por Grado
+
+La aplicación fue desarrollada de forma colaborativa entre los siguientes grados, distribuyendo responsabilidades según las habilidades de cada grupo:
+
+| Grado                      | Rol en el Proyecto |
+|----------------------------|---------------------|
+| 💻 **Informática**          | Desarrollo técnico de la app, programación, integración con Supabase y exportación de datos a CSV. |
+| 📊 **ADE**                  | Creación del contenido del examen, definición de criterios de puntuación y enfoque estratégico. |
+| 🌐 **Proyectos Internacionales** | Apoyo en diseño visual, pruebas de usabilidad y enfoque global. |
+| 🔍 **IOI**                  | Documentación y redacción del README. |
 
  

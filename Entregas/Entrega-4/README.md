@@ -39,7 +39,7 @@ Este proyecto fue desarrollado utilizando las siguientes herramientas.
 | 2 | ¿Qué animal puede sobrevivir sin agua durante más tiempo? | a) Camello <br> b) Rata canguro ✅ <br> c) Oso polar <br> d) Coyote |
 | 3 | ¿Cuál de estos animales NO es un reptil? | a) Cocodrilo <br> b) Tortuga <br> c) Salamandra ✅ <br> d) Iguana |
 | 4 | ¿Qué animal tiene el período de gestación más largo? | a) Elefante ✅ <br> b) Ballena azul <br> c) Jirafa <br> d) Oso polar |
-| 5 | ¿Cuál de estos animales puede volar? | a) Pingüino <br> b) Avestruz <br> c) Murciélago ✅ <br> d) Kiwi |
+| 5 | ¿Cuál de estos animales puede volar? | a) Pingüino <br> b) Avestruz <br> c) Gallina ✅ <br> d) Kiwi |
 | 6 | ¿Qué animal tiene el veneno más potente? | a) Cobra real <br> b) Escorpión <br> c) Avispa gigante <br> d) Medusa de caja ✅ |
 | 7 | ¿Cuál es el único mamífero que puede volar? | a) Ardilla voladora <br> b) Murciélago ✅ <br> c) Lémur volador <br> d) Petauro del azúcar |
 | 8 | ¿Qué animal puede regenerar partes de su cuerpo? | a) Lagartija ✅ <br> b) Canguro <br> c) Koala <br> d) Hipopótamo |

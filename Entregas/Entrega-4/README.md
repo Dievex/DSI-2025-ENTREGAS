@@ -1,11 +1,9 @@
 | [![](https://img.shields.io/badge/-Inicio-FFF?style=flat&logo=Emlakjet&logoColor=black)](/README.md) [![](https://img.shields.io/badge/-Entrega_2-FFF?style=flat&logo=openstreetmap&logoColor=black)](/Entregas/Entrega-2/ModeloDeNegocio.md)  [![](https://img.shields.io/badge/-Entrega_3-FFF?style=flat&logo=openstreetmap&logoColor=black)](/Entregas/Entrega-3/DocumentoAnalisis.md)  [![](https://img.shields.io/badge/-Entrega_4-FFF?style=flat&logo=openstreetmap&logoColor=black)]()|
 |:-:|
 
-# 📄 Entrega 4 - Formulario De Evaluación Interna App
+# 📄 Entrega 4 - App de Autoevaluación
 
-## 🏭 Acerca de la empresa
-
-Somos una empresa dedicada a la fabricación de piezas para automóviles. No solo nos enfocamos en la producción, sino también en el bienestar de nuestros empleados y clientes. Fomentamos un ambiente de cooperación, colaboración y mejora continua mediante encuentros informales y actividades internas.
+Este formulario ha sido creado como parte de la asignatura **DSI (Dirección de Sistemas de Información)**. Su finalidad es reforzar los conocimientos trabajados en clase a través de un examen tipo test. Es una herramienta práctica, interactiva y útil para evaluar conceptos clave relacionados con el temario.
 
 ---
 
@@ -21,41 +19,43 @@ Este proyecto fue desarrollado utilizando las siguientes herramientas.
 
 ---
 
-## ✅ Instrucciones
+## ✍️ Instrucciones
 
-1. Marca la opción que mejor refleje tu opinión.
-2. Tu participación será **totalmente anónima** y tu aporte nos ayudará a mejorar como organización.
-
+- Lee con atención cada una de las **10 preguntas** tipo test.
+- Elige **una sola opción** por pregunta.
+- Cada respuesta será evaluada automáticamente según el siguiente criterio:
+  - ✅ **+1 punto** por cada respuesta correcta
+  - ❌ **-0,25 puntos** por cada respuesta incorrecta
+  - ⚪ **-0,125 puntos** si no respondes
 
 ---
 
-## 📋 Formulario 
+## 📋 Preguntas 
 
 | Pregunta | Opciones |
 |---------|----------|
-| **1. ¿Consideras que los objetivos generales de la empresa están claramente definidos y son conocidos por todos los empleados?** | a) Completamente claros y compartidos<br>b) Se comentan, pero no del todo claros<br>c) Poco claros<br>d) No tengo idea |
-| **2. ¿Crees que las actividades que realizamos guardan relación con los objetivos que buscamos?** | a) Totalmente de acuerdo<br>b) Parcialmente<br>c) No mucho<br>d) Para nada |
-| **3. ¿Consideras que respondemos adecuadamente a los cambios en la demanda del mercado?** | a) Sí, nos adaptamos<br>b) A veces<br>c) Nos cuesta<br>d) No acertamos ni nos adaptamos |
-| **4. ¿Cómo valoras el nivel de innovación en nuestros procesos?** | a) Muy alto<br>b) Aceptable<br>c) Bajo<br>d) Nulo |
-| **5. ¿Qué mejora deberíamos incorporar al proceso?** | a) Mayor automatización<br>b) Mejor anticipación de demanda<br>c) Capacitaciones internas<br>d) Ninguna |
-| **6. ¿Deberíamos reconsiderar nuestro enfoque de objetivos y métodos?** | a) Sí, cambio profundo<br>b) Tal vez, revisar algunas áreas<br>c) No, el enfoque es correcto<br>d) No tengo suficiente información |
-| **7. ¿Deberíamos cambiar el orden de la cadena de montaje o añadir pasos intermedios?** | a) No hay otra forma<br>b) Así está bien<br>c) Podríamos considerar pasos<br>d) Deberíamos considerar un cambio completo |
-| **8. ¿Tienes oportunidades de crecimiento profesional aquí?** | a) Totalmente de acuerdo<br>b) Parcialmente de acuerdo<br>c) Parcialmente en desacuerdo<br>d) Totalmente en desacuerdo |
-| **9. ¿Sirven las actividades del equipo para mejorar el ambiente laboral?** | a) Sí, completamente<br>b) En algunos casos<br>c) Podrían mejorar<br>d) No sirven |
-| **10. ¿Te sientes motivado y valorado en tu trabajo diario?** | a) Sí, completamente<br>b) Podría mejorar<br>c) Falta reconocimiento<br>d) No, en absoluto |
+| **1. ¿Cuál es el objetivo principal de un modelo de negocio?** | a) Minimizar recursos tecnológicos<br>✅ b) Servir como guía para crear valor<br>c) Sustituir el plan estratégico<br>d) Controlar procesos financieros |
+| **2. ¿Qué diferencia hay entre invención e innovación?** | a) La invención es más costosa<br>b) La invención es planificada, la innovación accidental<br>✅ c) La invención crea algo nuevo, la innovación lo aplica<br>d) Son sinónimos |
+| **3. ¿Cuál de estos no es un marco de trabajo de la asignatura?** | a) Lienzo de modelo de negocio<br>✅ b) Análisis PESTEL<br>c) Análisis DAFO<br>d) Cinco Fuerzas de Porter |
+| **4. ¿Qué limitación común tienen los marcos empresariales?** | a) Son económicos<br>b) Ignoran al cliente<br>✅ c) No se adaptan a contextos cambiantes<br>d) Solo sirven a grandes empresas |
+| **5. ¿Cuál es una fase del proceso de innovación?** | a) Comercializar<br>✅ b) Capacitarse<br>c) Reorganizar<br>d) Monetizar |
+| **6. ¿Qué función NO pertenece a la Dirección de Sistemas de Información?** | a) Planificar<br>b) Organizar<br>✅ c) Vender productos<br>d) Controlar |
+| **7. ¿Qué busca la estrategia de SI?** | a) Limitar acceso a información<br>✅ b) Alinear tecnología con objetivos<br>c) Delegar al equipo técnico<br>d) Evitar transformación digital |
+| **8. ¿Qué es clave en la transformación digital?** | a) Reducir empleados<br>b) Control del CIO<br>✅ c) Gestión del capital humano<br>d) Eliminar procesos tecnológicos |
+| **9. ¿Qué herramienta es común en integración de sistemas?** | a) Canva<br>✅ b) Middleware<br>c) Photoshop<br>d) Blockchain |
+| **10. ¿Qué es X-sourcing?** | a) Técnica criptográfica<br>b) Distribución digital<br>✅ c) Combinación de modelos de externalización<br>d) Metodología ágil |
 
 ---
 
-## 🎯 Objetivo y Justificación del Formulario
+## 🎯 Objetivo 
 
-Este formulario está pensado para conocer la opinión de todos los empleados sobre:
 
-- Los objetivos y actividades de la empresa  
-- Nuestra capacidad de adaptación e innovación  
-- El ambiente laboral y la motivación diaria  
-- Oportunidades de mejora y crecimiento profesional
+Las preguntas permiten:
 
-Las preguntas nos ayudan a detectar fortalezas, debilidades y áreas donde podemos mejorar juntos.
+- Comprobar la comprensión de conceptos estratégicos y operativos
+- Identificar el nivel de asimilación del temario visto en clase
+- Reforzar el aprendizaje a través de autoevaluación
+- Detectar temas que requieren repaso o refuerzo
 
 
 ---

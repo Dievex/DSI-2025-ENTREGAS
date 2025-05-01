@@ -43,7 +43,7 @@ Este proyecto fue desarrollado utilizando las siguientes herramientas.
 | 6 | ¿Qué animal tiene el veneno más potente? | a) Cobra real <br> b) Escorpión <br> c) Avispa gigante <br> d) Medusa de caja ✅ |
 | 7 | ¿Cuál es el único mamífero que puede volar? | a) Ardilla voladora <br> b) Murciélago ✅ <br> c) Lémur volador <br> d) Petauro del azúcar |
 | 8 | ¿Qué animal puede regenerar partes de su cuerpo? | a) Lagartija ✅ <br> b) Canguro <br> c) Koala <br> d) Hipopótamo |
-| 9 | ¿Cuál de estos animales es un marsupial? | a) Lobo <br> b) Tigre <br> c) Canguro ✅ <br> d) Elefante |
+| 9 | ¿Cuál de estos animales es un marsupial? | a) Lémur <br> b) Marmota <br> c) Zarigüeya ✅ <br> d) Musaraña |
 | 10 | ¿Qué animal duerme más horas al día? | a) Koala ✅ <br> b) León <br> c) Gato doméstico <br> d) Oso perezoso 
 
 ---

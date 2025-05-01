@@ -3,7 +3,7 @@
 
 # 📄 Entrega 4 - App de Autoevaluación
 
-Este formulario ha sido creado como parte de la asignatura **DSI (Dirección de Sistemas de Información)**. Su finalidad es reforzar los conocimientos trabajados en clase a través de un examen tipo test. Es una herramienta práctica, interactiva y útil para evaluar conceptos clave relacionados con el temario.
+Este examen tipo test está diseñado como una herramienta didáctica para explorar y reforzar conocimientos generales sobre el reino animal. A través de preguntas breves y concretas, se pretende fomentar el aprendizaje lúdico y despertar el interés por la fauna y sus particularidades.
 
 ---
 
@@ -21,29 +21,30 @@ Este proyecto fue desarrollado utilizando las siguientes herramientas.
 
 ## ✍️ Instrucciones
 
-- Lee con atención cada una de las **10 preguntas** tipo test.
-- Elige **una sola opción** por pregunta.
-- Cada respuesta será evaluada automáticamente según el siguiente criterio:
-  - ✅ **+1 punto** por cada respuesta correcta
-  - ❌ **-0,25 puntos** por cada respuesta incorrecta
-  - ⚪ **-0,125 puntos** si no respondes
+- El test contiene **10 preguntas** tipo test.
+- Solo hay **una respuesta correcta** por pregunta.
+- Lee con atención y selecciona la opción que consideres correcta.
+- Criterios de evaluación:
+  - ✅ +1 punto por respuesta correcta  
+  - ❌ -1/4 de punto por respuesta incorrecta  
+  - ⚪ -1/8 de punto si no respondes 
 
 ---
 
 ## 📋 Preguntas 
 
-| Pregunta | Opciones |
-|---------|----------|
-| **1. ¿Cuál es el objetivo principal de un modelo de negocio?** | a) Minimizar recursos tecnológicos<br>✅ b) Servir como guía para crear valor<br>c) Sustituir el plan estratégico<br>d) Controlar procesos financieros |
-| **2. ¿Qué diferencia hay entre invención e innovación?** | a) La invención es más costosa<br>b) La invención es planificada, la innovación accidental<br>✅ c) La invención crea algo nuevo, la innovación lo aplica<br>d) Son sinónimos |
-| **3. ¿Cuál de estos no es un marco de trabajo de la asignatura?** | a) Lienzo de modelo de negocio<br>✅ b) Análisis PESTEL<br>c) Análisis DAFO<br>d) Cinco Fuerzas de Porter |
-| **4. ¿Qué limitación común tienen los marcos empresariales?** | a) Son económicos<br>b) Ignoran al cliente<br>✅ c) No se adaptan a contextos cambiantes<br>d) Solo sirven a grandes empresas |
-| **5. ¿Cuál es una fase del proceso de innovación?** | a) Comercializar<br>✅ b) Capacitarse<br>c) Reorganizar<br>d) Monetizar |
-| **6. ¿Qué función NO pertenece a la Dirección de Sistemas de Información?** | a) Planificar<br>b) Organizar<br>✅ c) Vender productos<br>d) Controlar |
-| **7. ¿Qué busca la estrategia de SI?** | a) Limitar acceso a información<br>✅ b) Alinear tecnología con objetivos<br>c) Delegar al equipo técnico<br>d) Evitar transformación digital |
-| **8. ¿Qué es clave en la transformación digital?** | a) Reducir empleados<br>b) Control del CIO<br>✅ c) Gestión del capital humano<br>d) Eliminar procesos tecnológicos |
-| **9. ¿Qué herramienta es común en integración de sistemas?** | a) Canva<br>✅ b) Middleware<br>c) Photoshop<br>d) Blockchain |
-| **10. ¿Qué es X-sourcing?** | a) Técnica criptográfica<br>b) Distribución digital<br>✅ c) Combinación de modelos de externalización<br>d) Metodología ágil |
+| Nº | Pregunta | Opciones |
+|----|----------|----------|
+| 1 | ¿Cuál es el mamífero más grande del mundo? | a) Elefante africano <br> b) Ballena azul ✅ <br> c) Jirafa <br> d) Oso polar |
+| 2 | ¿Qué animal puede sobrevivir sin agua durante más tiempo? | a) Camello <br> b) Rata canguro ✅ <br> c) Oso polar <br> d) Coyote |
+| 3 | ¿Cuál de estos animales NO es un reptil? | a) Cocodrilo <br> b) Tortuga <br> c) Salamandra ✅ <br> d) Iguana |
+| 4 | ¿Qué animal tiene el período de gestación más largo? | a) Elefante ✅ <br> b) Ballena azul <br> c) Jirafa <br> d) Oso polar |
+| 5 | ¿Cuál de estos animales puede volar? | a) Pingüino <br> b) Avestruz <br> c) Murciélago ✅ <br> d) Kiwi |
+| 6 | ¿Qué animal tiene el veneno más potente? | a) Cobra real <br> b) Escorpión <br> c) Avispa gigante <br> d) Medusa de caja ✅ |
+| 7 | ¿Cuál es el único mamífero que puede volar? | a) Ardilla voladora <br> b) Murciélago ✅ <br> c) Lémur volador <br> d) Petauro del azúcar |
+| 8 | ¿Qué animal puede regenerar partes de su cuerpo? | a) Lagartija ✅ <br> b) Canguro <br> c) Koala <br> d) Hipopótamo |
+| 9 | ¿Cuál de estos animales es un marsupial? | a) Lobo <br> b) Tigre <br> c) Canguro ✅ <br> d) Elefante |
+| 10 | ¿Qué animal duerme más horas al día? | a) Koala ✅ <br> b) León <br> c) Gato doméstico <br> d) Oso perezoso 
 
 ---
 
@@ -52,10 +53,11 @@ Este proyecto fue desarrollado utilizando las siguientes herramientas.
 
 Las preguntas permiten:
 
-- Comprobar la comprensión de conceptos estratégicos y operativos
-- Identificar el nivel de asimilación del temario visto en clase
-- Reforzar el aprendizaje a través de autoevaluación
-- Detectar temas que requieren repaso o refuerzo
+- Comprobar de forma práctica los conocimientos adquiridos sobre animales.
+
+- Promover el pensamiento crítico y la memoria visual a través de preguntas de opción múltiple.
+
+- Servir como recurso evaluativo o de repaso en contextos educativos formales o informales.
 
 
 ---

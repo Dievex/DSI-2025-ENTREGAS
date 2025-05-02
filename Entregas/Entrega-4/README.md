@@ -1,7 +1,7 @@
 | [![](https://img.shields.io/badge/-Inicio-FFF?style=flat&logo=Emlakjet&logoColor=black)](/README.md) [![](https://img.shields.io/badge/-Entrega_2-FFF?style=flat&logo=openstreetmap&logoColor=black)](/Entregas/Entrega-2/ModeloDeNegocio.md)  [![](https://img.shields.io/badge/-Entrega_3-FFF?style=flat&logo=openstreetmap&logoColor=black)](/Entregas/Entrega-3/DocumentoAnalisis.md)  [![](https://img.shields.io/badge/-Entrega_4-FFF?style=flat&logo=openstreetmap&logoColor=black)]()|
 |:-:|
 
-# 📄 Entrega 4 - [App de Examenes](https://app-exam-grupo6.flutterflow.app/)
+# 📄 Entrega 4 - [App de Exámenes](https://app-exam-grupo6.flutterflow.app/)
 
 Este examen tipo test está diseñado como una herramienta didáctica para explorar y reforzar conocimientos generales sobre el reino animal. A través de preguntas breves y concretas, se pretende fomentar el aprendizaje lúdico y despertar el interés por la fauna y sus particularidades.
 

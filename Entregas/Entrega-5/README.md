@@ -65,7 +65,7 @@ Presupuesto para una aplicación en producción con **10,000 usuarios mensuales 
   
 **Calculado para**: 10,000 usuarios mensuales activos
 
-**Última actualización**: Mayo 2025  
+**Última actualización**: 13 de mayo de 2025  
 
 **Tipo de cambio**: 1 EUR = 1.10 USD 
 

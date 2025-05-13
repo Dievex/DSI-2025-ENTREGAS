@@ -62,7 +62,11 @@ Presupuesto para una aplicación en producción con **10,000 usuarios mensuales 
 - Usuarios adicionales: $0.00325 / €0.00295 por usuario activo mensual
 - Ancho de banda: $0.15 / €0.14 por GB
 - Push notifications: $10 / €9.09 por cada 10k
+  
 **Calculado para**: 10,000 usuarios mensuales activos
+
 **Última actualización**: Mayo 2025  
-**Tipo de cambio**: 1 EUR = 1.10 USD  
+
+**Tipo de cambio**: 1 EUR = 1.10 USD 
+
 Presupuesto válido para los próximos 30 días

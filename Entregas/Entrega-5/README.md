@@ -8,7 +8,7 @@ Presupuesto para una aplicación en producción con **10,000 usuarios mensuales 
 |----------|--------------|-------------|
 | **TOTAL** | **$118.50** | **$1,422.00** |
 
-## 💸 Tabla de Presupuesto Total
+## 💸 Presupuesto Total
 
 | Categoría | Servicios Incluidos | Costo Mensual | Costo Anual |
 |-----------|-------------------|---------------|-------------|

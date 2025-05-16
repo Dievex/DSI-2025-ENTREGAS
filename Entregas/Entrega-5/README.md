@@ -9,7 +9,7 @@ Presupuesto para una aplicación en producción con **10,000 usuarios mensuales 
 |-----------|-------------------|---------------|-------------|
 | **Desarrollo** | FlutterFlow Pro | $30.00 / €27.27 | $360.00 / €327.27 |
 | **Backend y Base de Datos** | Supabase Pro | $25.00 / €22.73 | $300.00 / €272.73 |
-| **Hosting y Dominio** | Vercel Pro + Dominio SSL | $21.25 / €19.32 | $255.00 / €231.82 |
+| **Hosting y Dominio** | Vercel Enterprise + Dominio SSL | $21.25 / €19.32 | $255.00 / €231.82 |
 | **Monitoreo y Analytics** | Sentry + UptimeRobot + Google Analytics | $34.00 / €30.91 | $408.00 / €370.91 |
 | **Tiendas de Apps** | Apple Developer + Google Play | $8.25 / €7.50 | $99.00 / €90.00 |
 | **Comunicaciones** | Push Notifications (Incluido) | $0.00 / €0.00 | $0.00 / €0.00 |
@@ -33,7 +33,7 @@ Presupuesto para una aplicación en producción con **10,000 usuarios mensuales 
 ### 3. Hosting con SLA Garantizado
 | Servicio | Costo Mensual | Garantía |
 |----------|--------------|----------|
-| Vercel Pro | $20 / €18.18 | 99.99% uptime |
+| Vercel Enterprise | $20 / €18.18 | 99.99% uptime |
 | Dominio | $1.25 / €1.14 | SSL incluido |
 | **Subtotal** | **$21.25 / €19.32** | |
 ### 4. Monitoreo y Analytics

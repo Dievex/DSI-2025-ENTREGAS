@@ -9,7 +9,7 @@ Presupuesto para **10,000 usuarios mensuales activos**.
 |-----------|-------------------|---------------|-------------|
 | **Desarrollo** | FlutterFlow Standar | $30.00 / €27.27 | $360.00 / €327.27 |
 | **Backend y Base de Datos** | Supabase Pro | $25.00 / €22.73 | $300.00 / €272.73 |
-| **Hosting y Dominio** | Vercel Enterprise (estimado con precio del PRO ) + Dominio SSL | $20 / €17,86 | $255.00 / €231.82 |
+| **Hosting y Dominio** | Vercel Enterprise (estimado con precio del PRO ) + Dominio SSL | $21.25 / €18,97 | $255.00 / €231.82 |
 | **Monitoreo y Analytics** | Sentry + UptimeRobot + Google Analytics | $34.00 / €30.91 | $408.00 / €370.91 |
 | **Tiendas de Apps** | Apple Developer + Google Play | $8.25 / €7.50 | $99.00 / €90.00 |
 | **Comunicaciones** | Push Notifications (Incluido) | $0.00 / €0.00 | $0.00 / €0.00 |

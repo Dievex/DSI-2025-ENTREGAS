@@ -7,7 +7,7 @@ Presupuesto para una aplicación en producción con **10,000 usuarios mensuales 
 ## 💸 Presupuesto Total
 | Categoría | Servicios Incluidos | Costo Mensual | Costo Anual |
 |-----------|-------------------|---------------|-------------|
-| **Desarrollo** | FlutterFlow Pro | $30.00 / €27.27 | $360.00 / €327.27 |
+| **Desarrollo** | FlutterFlow Standar | $30.00 / €27.27 | $360.00 / €327.27 |
 | **Backend y Base de Datos** | Supabase Pro | $25.00 / €22.73 | $300.00 / €272.73 |
 | **Hosting y Dominio** | Vercel Enterprise + Dominio SSL | $21.25 / €19.32 | $255.00 / €231.82 |
 | **Monitoreo y Analytics** | Sentry + UptimeRobot + Google Analytics | $34.00 / €30.91 | $408.00 / €370.91 |
@@ -24,7 +24,7 @@ Presupuesto para una aplicación en producción con **10,000 usuarios mensuales 
 ### 1. Desarrollo
 | Servicio | Costo Mensual | Descripción |
 |----------|--------------|-------------|
-| FlutterFlow Pro | $30 / €27.27 | Desarrollo y exportación de código |
+| FlutterFlow Standar | $30 / €27.27 | Desarrollo y exportación de código |
 | **Subtotal** | **$30 / €27.27** | |
 ### 2. Backend y Base de Datos
 | Servicio | Costo Mensual | Incluye |

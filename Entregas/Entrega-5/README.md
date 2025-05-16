@@ -1,6 +1,6 @@
 # Presupuesto de Producción - App FlutterFlow + Supabase
 ## 📊 Resumen Ejecutivo
-Presupuesto para una aplicación en producción con **10,000 usuarios mensuales activos**.
+Presupuesto para **10,000 usuarios mensuales activos**.
 | Concepto | Costo Mensual | Costo Anual |
 |----------|--------------|-------------|
 | **TOTAL** | **$118.50 / €107.73** | **$1,422.00 / €1,292.73** |

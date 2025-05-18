@@ -23,8 +23,6 @@ Esta inconsistencia representa un error crítico con implicaciones significativa
 | 44 minutos/año | ~0.008% del tiempo | Aceptable para muchas aplicaciones empresariales |
 | 44 minutos/mes | ~0.1% del tiempo (12x mayor) | Potencialmente problemático para aplicaciones críticas |
 
-El análisis de SLAs combinados también es técnicamente impreciso, ya que no considera adecuadamente la probabilidad de fallos simultáneos vs. independientes.
-
 ## Ausencia de Análisis de Plugins Específicos para Quizzes
 
 El presupuesto no aborda los plugins de WordPress necesarios para implementar la funcionalidad de quizzes:
@@ -41,11 +39,10 @@ El presupuesto no aborda los plugins de WordPress necesarios para implementar la
 
 | Plugin | Licencia | Impacto en rendimiento | Consideraciones técnicas |
 |--------|----------|------------------------|--------------------------|
-| LearnDash | €159-299/año | Alto | Requiere optimización de caché |
-| Quiz And Survey Master | €89-249/año | Medio | Intensivo en base de datos |
-| H5P | Gratuito/€45-95/año | Medio-alto | Almacenamiento multimedia |
-| WP Quiz | €29-99/año | Bajo-medio | Limitaciones con usuarios concurrentes |
-| ARI Stream Quiz | €23-67/año | Bajo | Función limitada para 10k usuarios |
+| LearnDash | [€178,20/año](https://www.learndash.com/pricing-and-purchase/) | Alto | Requiere optimización de caché |
+| Quiz And Survey Master | [€133,43/año](https://quizandsurveymaster.com/pricing/)/año | Medio | Intensivo en base de datos |
+| H5P | [Gratuito/€45-95/año](https://h5p.com/pricing) | Medio-alto | Almacenamiento multimedia |
+| WP Quiz | [€51,4/año](https://mythemeshop.com/plugins/wordpress-quiz/) | Bajo-medio | Limitaciones con usuarios concurrentes |
 
 ## Exceso de Opciones que Generan Confusión
 

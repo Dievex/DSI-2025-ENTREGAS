@@ -40,7 +40,7 @@ El presupuesto no aborda los plugins de WordPress necesarios para implementar la
 | Plugin | Licencia | Impacto en rendimiento | Consideraciones técnicas |
 |--------|----------|------------------------|--------------------------|
 | LearnDash | [€178,20/año](https://www.learndash.com/pricing-and-purchase/) | Alto | Requiere optimización de caché |
-| Quiz And Survey Master | [€133,43/año](https://quizandsurveymaster.com/pricing/)/año | Medio | Intensivo en base de datos |
+| Quiz And Survey Master | [€133,43/año](https://quizandsurveymaster.com/pricing/) | Medio | Intensivo en base de datos |
 | H5P | [Gratuito/€45-95/año](https://h5p.com/pricing) | Medio-alto | Almacenamiento multimedia |
 | WP Quiz | [€51,4/año](https://mythemeshop.com/plugins/wordpress-quiz/) | Bajo-medio | Limitaciones con usuarios concurrentes |
 

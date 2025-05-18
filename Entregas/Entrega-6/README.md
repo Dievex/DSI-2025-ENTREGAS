@@ -1,4 +1,4 @@
-# Análisis Crítico del Presupuesto "Sitio Web de Quizzes WordPress"
+# Análisis del Presupuesto "Sitio Web de Quizzes WordPress" de los grupos 1 y 9
 
 ## Resumen
 
